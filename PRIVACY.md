@@ -23,8 +23,6 @@ We may use tracking tools such as [Cloudflare Analytics](https://www.cloudflare.
 
 
 # Why We Collect Your Information?
-We collect and use your personal information to provide you with our contents, comply with our legal obligations, and protect our provided content, rights and safety of others.
-
 - **To provide you with our contents** when you:
   - use our features and services (for example to create an article) so we can ensuring that we can deliver, manage, and optimize your experience on our platform.
   - enter a contract or transaction with us (for example to buy a ticket from our platform) so we can:
@@ -35,7 +33,7 @@ We collect and use your personal information to provide you with our contents, c
     - share this information to event organizer to enable them to run the event,
     - provide important information about the event.
 
-- **To comply with our legal obligations and protect our provided content**. We may use this information to:
+- **To comply with our legal obligations, protect our provided content, rights and safety of others**. We may use this information to:
   - prevent misuse of our intellectual property, fraud, or other similar activities,
   - protect our users and ensure the safety of others.
     - We use [Cloudflare](https://cloudflare.com) to protect our platform and Cloudflare [Privacy Policy](https://cloudflare.com/privacy) and [Terms of Service](https://www.cloudflare.com/website-terms/) apply.
