@@ -34,7 +34,7 @@ You may not use another user's account without their permission. You will immedi
 You are entirely responsible for all data you enter, including your account information. Any errors, typos, or mistakes—whether intentional or not—that result in incorrect data are your full responsibility, along with any consequences.
 This includes, but not limited to: bank account numbers, legal names, and hosted event names.
 
-You will have no ownership in your account, meaning we can terminate, or modify your account at any time, with or without notice or your permission, if things does not align with our Terms.
+You will have no ownership in your account, meaning that we can terminate, or modify your account at any time, with or without notice or your permission, if things does not align with our Terms.
 
 We may prevent registration, disable an account, or deny access to the Platform for any reason.
 
