@@ -128,4 +128,4 @@ IN JURISDICTIONS WHERE LIMITATION OF LIABILITY IS RESTRICTED, OUR LIABILITY SHAL
 If you have questions about our Terms, please contact us either through our [contact page](/contact) or email us at [mail@anthro.id](mailto:mail@anthro.id).
 
 ## 10. Finale
-By using the Platform, you agree to be bound by these Terms of Use.
+By using our Platform, you agree to our terms and conditions/services/use.
