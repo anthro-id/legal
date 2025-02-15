@@ -1,7 +1,7 @@
 # Overview
 Welcome to Anthro.id (abbr. Anthro Indonesia)!
 
-The following page are the terms of use ("Terms") that govern your use of Anthro.id's platform, including [https://anthro.id](https://anthro.id) (collective, the "Platform").
+The following page are the terms of use ("Terms") that govern your use of Anthro.id's platform, including [https://anthro.id](https://anthro.id) (collectively, the "Platform").
 
 Our other policies such as [Privacy Policy](/legal/privacy-policy) may be applicable to some features on the platform are also incorporated into the Terms.
 By visiting or using the Platform, you hereby consent to these Terms of Use or Service, as updated from time to time.
