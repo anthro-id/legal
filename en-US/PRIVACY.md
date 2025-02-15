@@ -3,6 +3,16 @@ When you access to our publications or this website, we and third parties may pr
 
 In this section, we provide an overview of our privacy practices.
 
+# Summary
+It is important that you read the policy that we provided, but here's a summary to get you started:
+
+- **It is all up to you.** We require an email and password to create your account, but providing additional personal information, such as your legal name, is optional unless you choose to use specific services on our Platform. We only collect information that is necessary to operate and improve our services.
+
+- **We give you control.**
+
+- **We don't sell your personal information.** Our business is based on features and/or services that we provided to our users, not from selling your personal information to other parties.
+
+- **For us, and others safety.** We use certain information to help identify violations of our [Terms of Use](/legal/terms) and to prevent unlawful activities from occurring on the Platform.
 
 # What Information We Have & Where We Get It?
 If you decide to use our services, we may also collect additional information necessary to facilitate your experience, such as event participation details, ticket purchases, and communication preferences.
