@@ -19,7 +19,7 @@ We may use tracking tools such as [Cloudflare Analytics](https://www.cloudflare.
 - **When you contact Anthro.id to provide feedback or resolve an issue**, we record that interaction for evidentiary purposes and to provide support related to your query.
 
 - **Processing of Underage Individuals' Data**. In rare cases where we collect personal information from children, we always seek parental or guardian consent and only collect such information for the specific purposes disclosed at the time of collection.
-  - On the **Anthro.id / Events** platform, if a minor purchases a ticket, a parent or guardian must print, sign, and submit a physical copy of the **Underage Attendance Authorization** form—provided by us—to the event organizer when the event begins. A copy may also be submitted to **Anthro.id**, but only if the event organizer has granted us permission to store it.
+  - On the **Anthro.id / Events** platform, if a minor purchases a ticket, a parent or guardian must print, sign, and submit a physical copy of the **Underage Attendance Authorization** form—provided by us, or the event organizer—to the event organizer when the event begins. A copy may also be submitted to **Anthro.id**, but only if the event organizer has granted us permission to store it.
 
 
 # Why We Collect Your Information?
