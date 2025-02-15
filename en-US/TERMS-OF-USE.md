@@ -62,9 +62,9 @@ You agree that you will comply with all applicable laws (including local laws in
 
 By submitting your Content to our Platform, you grant us a worldwide, non-exclusive, royalty-free license to use, reproduce, distribute, publicly display, and archive your Content in connection with our Platform or services. This license allows us to showcase your Content on our Platform and promotional materials, but you retain full ownership of your Content. We will not sell or transfer your Content to third parties without your explicit consent.
 
-You may not upload content that violates laws and regulations, infringes intellectual property, contains explicit or harmful material, as outlined in our **Standards of Behavior**.
-
 You are responsible for the content that you submit to us and any consequences that arise from its use.
+
+You may not upload content that violates laws and regulations, infringes intellectual property, contains explicit or harmful material, as outlined in our **Standards of Behavior**.
 
 If we receive a complaint that your Content does not comply with our Terms, we may investigate and decide to remove your Content or disable your account. You will be responsible for any Content that infringes on the rights of a third party, and we may require you to compensate us for any costs incurred in resolving such complaints.
 
