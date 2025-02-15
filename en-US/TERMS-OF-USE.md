@@ -50,8 +50,7 @@ You agree that you will comply with all applicable laws (including local laws in
   - any private information about Platform without authorization.
   - any advertisements, solicitations, pyramid schemes, surveys, contests, or other unsolicited-related commercial communication.
   - any content or information containing material that may be considered harmful, immoral, pornographic, inappropriate, offensive, violent, abusive, indecent, racist, discriminatory, defamatory, threatening, harassing, hateful, or intimidates individuals on the basis of religion, race, ethnicity, sexual orientation, gender, age, or disability.
-- Engage in a way that could harm our intellectual property.
-  - This includes such as spamming, flooding, DDoS, and more.
+- Engage in a way that could harm our intellectual property. This includes such as spamming, flooding, DDoS, and more.
 - Harvest, access, monitor, or copy any information about our Platform users (including scrapping the Platform, etc.) without a written agreement or strict verification from **Anthro.id**.
 - (, as attendees, involved in **Anthro.id / Events**) to:
   - order, or attempt to order, numbers of tickets for an event that exceeds the provided limit for that event.
