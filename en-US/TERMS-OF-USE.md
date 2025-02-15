@@ -20,7 +20,7 @@ We may change our Terms of Use from time to time without notice. Any changes or 
 By continuing to use the Platform after the effective date, you agree to the changes.
 
 # Contents
-## 1. Account Registration
+## 1. Account & Rights
 You may browse the Platform without registering for an account. You will be required to register for an account to use certain features on the Platform, such as purchasing tickets, creating an article, or becoming an event organizer.
 
 Please note that your account name may not include the name of another person with the intention to impersonate that person, or be offensive in any way shape or form.
