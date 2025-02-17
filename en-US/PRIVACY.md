@@ -25,6 +25,9 @@ Providing this information is not mandatory until you engage in certain activiti
 
 - **When you're using our platform(s)**, we'll collect your IP address and browser identity to protect against fraud, ensure platform security, and improve our services. This information helps us detect suspicious activities, prevent unauthorized access, and enhance user experience.
 We may use tracking tools such as [Cloudflare Analytics](https://www.cloudflare.com/web-analytics/) to passively collect data about you, including your browser type, device information, and geographic location. This helps us analyze user behavior, optimize platform performance, and enhance security measures.
+  - Some features, services, or products on our Platform may require us to collect sensitive information for verification and security purposes. This may include, but not limited to:
+    - information on identity card and photo,
+    - biometric data.
 
 - **When you contact Anthro.id to provide feedback or resolve an issue**, we record that interaction for evidentiary purposes and to provide support related to your query.
 
