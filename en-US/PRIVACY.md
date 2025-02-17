@@ -57,7 +57,7 @@ We use military-grade encryption to keep your data private and secure while in t
 
 We store your information using certified vendors such as [Google Cloud](https://cloud.google.com) and [Amazon AWS](https://aws.amazon.com/), which offer robust security measures and data encryption to further protect your data. Each vendor's privacy policy and terms of service also apply.
 
-For example, when you purchase a ticket, we may forward your data, including your legal name and phone number, to our trusted payment processing vendors such as [Midtrans (Indonesia)](https://midtrans.com) and [Paddle (International)](https://paddle.com) to enable them to process your payment. Please see [Midtrans Policy](https://midtrans.com/privacy-notice) and [Paddle Policy](https://www.paddle.com/legal/privacy) for more information how they process personal information related to payments.
+For example, when you purchase a ticket, we may or may not forward your data, including your legal name and/or phone number, to our trusted payment processing vendors such as [Midtrans (Indonesia)](https://midtrans.com) and [Paddle (International)](https://paddle.com) to enable them to process your payment. Please see [Midtrans Policy](https://midtrans.com/privacy-notice) and [Paddle Policy](https://www.paddle.com/legal/privacy) for more information how they process personal information related to payments.
 
 For legal disclosures, we may share information to comply with a court order or subpoena. Additionally, we may provide information to government agencies as required by law. We may also share information when investigating potential crimes, including fraud.
 
