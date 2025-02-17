@@ -62,6 +62,19 @@ For example, when you purchase a ticket, we may forward your data, including you
 For legal disclosures, we may share information to comply with a court order or subpoena. Additionally, we may provide information to government agencies as required by law. We may also share information when investigating potential crimes, including fraud.
 
 
+# Data Retention
+We retain personal information for as long as it is needed. It means that we retain your personal data for as long as you have an active **Anthro.id** account.
+
+Some information you can delete directly from our Platform.
+
+Some of our services, features, or products may require additional verification that involves collecting sensitive information, such as a government-issued ID. For each type of information, we determine the data retention period based on the reasons outlined below:
+- **Attendees verification**:
+  - Event organizers may choose to enable this feature to prevent ticket touting and similar types of fraud.
+  - If you submit a government-issued ID for purchasing a ticket, your data will be verified in real-time and deleted immediately after the purchase is completed.
+- **Bank information details**:
+  - If you are an event organizer, your bank details will be retained as long as you use our services that require them for fund withdrawals.
+
+
 # Your Rights
 You have the right to opt out of certain personal data processing, such as deleting your account or removing your data from our analytics.
 
