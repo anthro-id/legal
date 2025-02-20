@@ -8,7 +8,7 @@ It is up to the event organizer to decide whether to accept your refund request,
 
 Please read **Refund Verification** section down below for more information about whether the ticket is refundable or not.
 
-If you believe your refund request was unfairly rejected due to bad faith reasons—such as fraud, scams, or other related issues—**please [contact us](/contact) immediately.**
+The event organizer can also reuse and modify our Platform refund policy.
 
 # Under Anthro.id Policy (Fallback)
 If the event organizer does not specify a refund policy, our (Anthro.id) refund policy will apply by default.
