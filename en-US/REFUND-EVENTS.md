@@ -29,6 +29,8 @@ Refunds under force majeure circumstances will be processed in accordance with t
 
 The Platform and the event organizer are not liable for any additional costs, damages, or losses incurred by attendees due to a force majeure event. This includes, but not limited to, accommodations, travel, or any other expenses outside our Platform or the event organizer itself.
 
+For more information on what is included in force majeure, you can [visit this page](https://en.wikipedia.org/wiki/Force_majeure).
+
 # Refund Coverage Details
 Refunds, if applicable, will only cover the base ticket price paid by the attendee. Any additional fees, including but not limited to platform fees, payment processing fees, VAT, currency conversion fees, and/or other service charges, **are non-refundable/reversible.**
 
