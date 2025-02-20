@@ -18,9 +18,9 @@ It is up to the event organizer to decide whether to accept your refund request,
 Please read **Refund Verification** section down below for more information about whether the ticket is refundable or not.
 
 You may request to cancel your ticket for a:
-- full refund, up to 30 (thirty) days before the date and time of the event.
-- partial refund (50%), between 7 (seven) and 29 (twenty nine) days before the date and time of the event.
-- no refund, less than 7 (seven) days before the date and time of the event.
+- **full refund**, up to 30 (thirty) days before the date and time of the event.
+- **partial refund (50%)**, between 7 (seven) and 29 (twenty nine) days before the date and time of the event.
+- **no refund**, less than 7 (seven) days before the date and time of the event.
 
 # Force Majeure / Greater Causes
 In the event of unforeseen circumstances beyond the control of the Platform (**Anthro.id**) or the event organizer, including but not limited to natural disasters, government regulations, pandemics, or any other force majeure event, both the Platform and the event organizer reserve the right to issue **a full refund to all attendees, no questions asked**.
