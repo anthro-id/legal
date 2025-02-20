@@ -22,8 +22,8 @@ You may request to cancel your ticket for a:
 - **partial refund (50%)**, between 7 (seven) and 29 (twenty nine) days before the date and time of the event.
 - **no refund**, less than 7 (seven) days before the date and time of the event.
 
-# Force Majeure / Greater Causes
-In the event of unforeseen circumstances beyond the control of the Platform (**Anthro.id**) or the event organizer, including but not limited to natural disasters, government regulations, pandemics, or any other force majeure event, both the Platform and the event organizer reserve the right to issue **a full refund to all attendees, no questions asked**.
+# Force Majeure / Damnum Fatale
+In the event of unforeseen circumstances beyond the control of the Platform (**Anthro.id**) or the event organizer, including but not limited to natural catastrophe(s), government regulations, pandemics, or any other force majeure event, both the Platform and the event organizer reserve the right to issue **a full refund to all attendees, no questions asked**.
 
 Refunds under force majeure circumstances will be processed in accordance with the timeline and method determined by the event organizer and **Anthro.id.** Any transaction fees or processing charges (e.g. bank transfers) may be deducted where applicable.
 
