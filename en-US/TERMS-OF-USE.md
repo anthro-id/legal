@@ -12,7 +12,7 @@ By visiting or using the Platform, you hereby consent to these Terms of Use or S
 - **You** / **Your** — refers to you. If you're accessing our Platform on behalf of a legal individual or entity (employer, for instance), you agree that you have the responsibility to combine that individual/entity to these terms, and "you" and "your" will refer to that individual/entity.
 
 # Underage Notice
-Please note that our platform is not targeted at children under the age of 13, and they are not permitted to use the Platform. We strongly encourage all parents and guardians to monitor their children's Internet use. If you use the Platform, you stated and agreed that you are at least 13 years old or above.
+Please refer to our [Underage Individuals'](/legal/underage) policy segment.
 
 # Future Changes
 We may change our Terms of Use from time to time without notice. Any changes or decisions we make will be effective right after our **Effective Date** as mentioned above the title.
@@ -102,11 +102,7 @@ We reserve the right to limit access or visibility to the Platform, services, or
 Users outside Indonesia are responsible for ensuring their use of the Platform complies with their local laws.
 
 ## 6. Parental Controls
-We cannot prohibit underage individuals from visiting our Platform and must rely on parents and/or guardians to decide what materials are appropriate for children to view and purchase (if it's related with our product/service called **Anthro.id / Events**).
-
-You can find more information about parental guidance at [ftc.gov](https://consumer.ftc.gov/identity-theft-and-online-security/online-privacy-and-security) and [indonesiabaik.id](https://indonesiabaik.id/infografis/menjaga-anak-di-internet). 
-
-We do not endorse the products or services listed above.
+For more information about parental controls, please refer to our [Underage Individuals'](/legal/underage) policy segment.
 
 ## 7. DISCLAIMER OF WARRANTIES
 We strive to provide a seamless experience for users and visitors, but we cannot guarantee that every aspect of the Platform will function without interuptions.
