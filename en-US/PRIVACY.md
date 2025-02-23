@@ -25,7 +25,7 @@ If you are using the Platform outside Indonesia, please read our **[Terms of Use
 # What Information We Have & Where We Get It?
 If you decide to use our services, we may also collect additional information necessary to facilitate your experience, such as event participation details, ticket purchases, and communication preferences.
 
-- **When you create an account**, buy a ticket, become an event organizer, or have a ticket transferred to you by a friend, we may ask you to provide contact information such as your full name, email address, phone number, date of birth.
+- **When you create an account, buy a ticket, or become an event organizer**, we may ask you to provide contact information such as your full name, email address, phone number, date of birth.
 Providing this information is not mandatory until you engage in certain activities on our platform, such as purchasing a ticket or registering as an event organizer.
   - Additionally, we may request business-related information if you are an event organizer, such as your bank account details for ticket sale withdrawals, a valid government-issued ID for verification purposes. This information helps us ensure the security of transactions and prevent fraudulent activities.
 
