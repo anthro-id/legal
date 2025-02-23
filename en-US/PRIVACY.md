@@ -36,6 +36,7 @@ We may use tracking tools such as [Cloudflare Analytics](https://www.cloudflare.
   - Some features, services, or products on our Platform may require us to collect sensitive information for verification and security purposes. This may include, but not limited to:
     - information on identity card and photo,
     - biometric data.
+    - consent form.
 
 - **When you contact Anthro.id to provide feedback or resolve an issue**, we record that interaction for evidentiary purposes and to provide support related to your query.
 
