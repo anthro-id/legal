@@ -57,14 +57,30 @@ We may use tracking tools such as [Cloudflare Analytics](https://www.cloudflare.
     - We use [Cloudflare](https://cloudflare.com) to protect our platform and Cloudflare [Privacy Policy](https://cloudflare.com/privacy) and [Terms of Service](https://www.cloudflare.com/website-terms/) apply.
 
 
-# How We Protect Your Data, Who We Share It With, and Why?
-We use military-grade encryption to keep your data private and secure while in transit.
+# How We Protect Your Data?
+We use military-grade encryption to keep your data encrypted, private and secure while in transit.
 
-We store your information using certified vendors such as [Google Cloud](https://cloud.google.com) and [Amazon AWS](https://aws.amazon.com/), which offer robust security measures and data encryption to further protect your data. Each vendor's privacy policy and terms of service also apply.
+We store your information using certified vendors such as [Google Cloud](https://cloud.google.com) and [Amazon AWS](https://aws.amazon.com/), which offer robust security measures and data encryption to further protect your data.
 
-For example, when you purchase a ticket, we may or may not forward your data, including your legal name and/or phone number, to our trusted payment processing vendors such as [Midtrans (Indonesia)](https://midtrans.com) and [Paddle (International)](https://paddle.com) to enable them to process your payment. Please see [Midtrans Policy](https://midtrans.com/privacy-notice) and [Paddle Policy](https://www.paddle.com/legal/privacy) for more information how they process personal information related to payments.
+Please see [Google Cloud Privacy Notice](https://cloud.google.com/terms/cloud-privacy-notice) and [AWS Privacy Notice](https://aws.amazon.com/privacy/) for more information how they process and secure collected data from their customers.
 
-For legal disclosures, we may share information to comply with a court order or subpoena. Additionally, we may provide information to government agencies as required by law. We may also share information when investigating potential crimes, including fraud.
+
+# Payment Processing
+Some of our features, products, or services require payment processing. To facilitate transactions, we work with third-party payment processors who handle payments securely on our behalf. When you make a payment through our Platform, your payment information, such as your name, billing address, and payment details, may be collected and processed by these third-party providers.
+
+We use certified payments processing vendors such as [Midtrans (Indonesia)](https://midtrans.com) and [Paddle (International)](https://paddle.com) to enable them to process your payment.
+
+We do not store or process your full payment details directly. However, we may receive limited transaction information, such as payment status or confirmation, to ensure the completion of your purchase or refund requests.
+
+By using our payment-enabled services, you agree to the terms and privacy policies of our payment processing vendors.
+
+If you have questions regarding how your payment data is handled, please refer to the privacy policies of the respective payment processor.
+
+Please see [Midtrans Policy](https://midtrans.com/privacy-notice) and [Paddle Policy](https://www.paddle.com/legal/privacy) for more information how they process personal information related to payments.
+
+
+# Your Data With Laws
+For legal disclosures, we may share information to comply with a court order or subpoena when investigating potential crimes. Additionally, we may provide information to government agencies as required by law.
 
 
 # Data Retention
