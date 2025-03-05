@@ -19,7 +19,7 @@ We do not endorse the products or services listed above.
 # Anthro.id: Events
 ## Event Creation
 For local event or convention with more than 50 attendees, a parent or legal guardian **must** sign and submit a digital copy of the **Underage Event Creation Authorization** form, provided by us.
-  - To provide a duty stamp on a digital copy, we recommend you to use [e-meterai.co.id](https://e-meterai.co.id/).
+  - A duty stamp is optional but recommended just in case, we recommend you to use [e-meterai.co.id](https://e-meterai.co.id/) for digital form signing.
 
 Alternatively, you can bring someone who is older (more than or equals to 18 years old) than the individual to create an event and follow a normal procedure.
 
@@ -27,7 +27,7 @@ We do not endorse the products or services listed above.
 
 ## Guardian Agreements
 A parent or legal guardian ***must*** print, sign, and submit a physical/digital copy of the **Underage Attendance Authorization** form—provided by us, or the event organizer—to the event organizer before or when the event begins.
-  - To provide a duty stamp on a digital copy, we recommend you to use [e-meterai.co.id](https://e-meterai.co.id/).
+  - A duty stamp is optional but recommended just in case, we recommend you to use [e-meterai.co.id](https://e-meterai.co.id/) for digital form signing.
 
 A copy may also be submitted to **Anthro.id**, but only if the event organizer has granted us permission to store it.
 
