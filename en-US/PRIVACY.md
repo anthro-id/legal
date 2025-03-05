@@ -82,9 +82,7 @@ We do not store or process your full payment details directly. However, we may r
 
 By using our payment-enabled services, you agree to the terms and privacy policies of our payment processing vendors.
 
-If you have questions regarding how your payment data is handled, please refer to the privacy policies of the respective payment processor.
-
-Please see [Midtrans Policy](https://midtrans.com/privacy-notice) and [Paddle Policy](https://www.paddle.com/legal/privacy) for more information how they process personal information related to payments.
+If you have questions regarding how your payment data is handled, please refer to [Midtrans Policy](https://midtrans.com/privacy-notice) and [Paddle Policy](https://www.paddle.com/legal/privacy) for more information how they process personal information related to payments.
 
 
 # Your Data With Laws
