@@ -103,9 +103,22 @@ Some of our services, features, or products may require additional verification 
 
 
 # Your Rights
-You have the right to opt out of certain personal data processing, such as deleting your account or removing your data from our analytics.
+Based on **Indonesia Law Number 27 of 2022 on Personal Data Protection, Chapter IV (4), Rights of Personal Data Subjects**, you have a:
+- **Right to access**, meaning that you have a right to request a copy of your personal data.
+- **Right to rectify**, meaning that you have a right to request corrections or updates about your data to ensure accuracy.
+- **Right to erasure**, meaning that you have a right to request a deletion of your personal data.
+- **Right to withdraw consent**, as stated, you have a right to withdraw your consent for data processing at any time.
+- **Right to restrict**, meaning that you have a right to restrict further data processing where you believe it to be inaccurate, unlawful, not able to delete it due to a legal obligation, or simply you do not want us to delete it.
+- **Right to portability**, meaning that you have a right to request to convert your personal data to another data controller in a common, human-readable format such as Excel or a spreadsheet.
+- **Right to complain with a supervisory authority**, meaning that you have a right of appeal to authorities if you believe that the processing of your personal data violates data protection law.
 
-However, this does not apply to essential services required for security, platform functionality, or compliance with legal obligations.
+This section only applies on PII (Personally Identifiable Information), which is something to fully identify the consumer.
+
+Technical data (as we stated above the [What Information We Collect?](/legal/privacy#what-information-we-collect)) will not be covered by **Your Rights** section policy since it is a crucial piece of information so we can protect and operate our Platform.
+
+Technical data that we meant are including, but not limited to your user ID, IP address, browser identification, language, and cookies.
+
+Please read our [terms, section 5](/legal/terms#5-use-of-the-platform-outside-indonesia) for **Your Rights** outside Indonesia.
 
 
 # Contact Us
