@@ -52,7 +52,7 @@ If you request a refund through our [contact page](/contact), our response time 
 As long as it complies with our policies and is made in good faith, the decision is at the event organizer's discretion.
 
 The meaning of good faith reasons are including, but not limited to:
-- **deadlines**, the request was submitted after the event organizer’s stated refund deadline, such as within 24 hours of the event's start time.
+- **deadlines**, the request was submitted after the event organizer’s stated refund deadline, such as when a ticket is ordered within 24 hours of the event's start time.
 - **non-refundable ticket(s)**, the event organizer clearly stated that tickets are non-refundable at the time of purchase.
 - **violation**, the event organizer reserves the right to void a ticket if the attendee is found in violation of event policies, such as engaging in disruptive behavior, unauthorized ticket reselling, or other related infractions.
 
