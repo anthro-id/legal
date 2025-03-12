@@ -49,23 +49,19 @@ We explicitly state that we only collect this data when you have given us consen
   - Some of our features, products, or services requires providing licenses or agreements that you are eligible to use some of our services including, but not limited to a parental consent form.
 
 
+# Purposes
+We may disclose your personal data in the good faith belief that such action is necessary stated below.
 
-
-# Why We Collect Your Information?
 - **To provide you with our contents** when you:
   - use our features and services (for example to create an article) so we can ensuring that we can deliver, manage, and optimize your experience on our platform.
-  - enter a contract or transaction with us (for example to buy a ticket from our platform) so we can:
-    - process your order,
-    - send you emails including booking confirmations and event reminders,
-    - take payment,
-    - provide you with customer support,
-    - share this information to event organizer to enable them to run the event,
-    - provide important information about the event.
 
-- **To comply with our legal obligations, protect our provided content, rights and safety of others**. We may use this information to:
+- **To comply with a legal obligation, protect our Platform, rights and safety of others**. We may use this information to:
   - prevent misuse of our intellectual property, fraud, or other similar activities,
+  - protect ourselves against legal liability,
   - protect our users and ensure the safety of others.
     - We use [Cloudflare](https://cloudflare.com) to protect our platform and Cloudflare [Privacy Policy](https://cloudflare.com/privacy) and [Terms of Service](https://www.cloudflare.com/website-terms/) apply.
+
+- **To maintain and improve our Platform and services.**
 
 
 # How We Protect Your Data?
