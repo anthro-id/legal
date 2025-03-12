@@ -7,9 +7,9 @@ In this section, we provide an overview of our privacy practices.
 # Summary
 It is important that you read the policy that we provided, but here's a summary to get you started:
 
-- **It is all up to you.** We require an email and password to create your account, but providing additional personal information, such as your legal name, is optional unless you choose to use specific services on our Platform. We only collect information that is necessary to operate and improve our services.
+- **We keep it simple and minimal.** In order to create an account, all you need is an email and a password. You are not required to fill your personal data on our Platform until you decide to.
 
-- **We give you control.**
+- **We give you control.** This means we provide multiple options to opt out your personal information from our Platform, either partially or fully (such as deleting your account).
 
 - **We don't sell your personal information.** Our business is based on features and/or services that we provided to our users, not from selling your personal information to other parties.
 
