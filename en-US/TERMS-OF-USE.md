@@ -16,7 +16,9 @@ By visiting or using the Platform, you hereby consent to these Terms of Use or S
 Please refer to our [Underage Individuals'](/legal/underage) policy segment.
 
 # Future Changes
-We may change our Terms of Use from time to time without notice. Any changes or decisions we make will be effective right after our **Effective Date** as mentioned above the title.
+We may change our Terms of Use from time to time with notice. 
+
+After notice, we'll be given our users' and/or visitors a chance to read and understand the changes for at least 30 days before **Effective Date** as mentioned above the title.
 
 By continuing to use the Platform after the effective date, you agree to the changes.
 
