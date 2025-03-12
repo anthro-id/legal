@@ -60,9 +60,13 @@ You agree that you will comply with all applicable laws (including local laws in
   - participate in an offer on the Platform using any unauthorized method (such as a gift code) unless you have received direct authorization from us. Additionally, you must comply with the terms of the offer.
 
 ## 3. Your Content
-**Your content is yours, but you give us a license to it when you use Anthro.id.**
+**Your content is yours, but you give us a license to use it.**
 
-By submitting your Content to our Platform, you grant us a worldwide, non-exclusive, royalty-free license to use, reproduce, distribute, publicly display, and archive your Content in connection with our Platform or services. This license allows us to showcase your Content on our Platform and promotional materials, but you retain full ownership of your Content.
+By submitting your Content to our Platform, you grant us a worldwide, non-exclusive, royalty-free license to store, cache, display, and distribute your Content solely for the purpose of operating and improving our Platform and services.
+
+This license does not grant us rights for commercial use outside of our Platform.
+
+You retain full ownership of your Content, and the license stated above will terminate when you delete your Content unless it has been shared with others who have not deleted it.
 
 We will not, and never will, sell or transfer your Content to third parties.
 
