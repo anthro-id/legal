@@ -63,7 +63,7 @@ We may use tracking tools such as [Cloudflare Analytics](https://www.cloudflare.
 # How We Protect Your Data?
 We use military-grade encryption to keep your data encrypted, private, and secure while at-rest and in transit.
 
-We store your information using certified vendors such as [Google Cloud](https://cloud.google.com) and [Amazon AWS](https://aws.amazon.com/), which offer robust security measures and data encryption to further protect your data.
+We store your information using certified vendors such as [Google Cloud](https://cloud.google.com) and [Amazon Web Services](https://aws.amazon.com/), which offer robust security measures and data encryption to further protect your data.
 
 
 The security of your data is important to us but remember that no method of transmission over the Internet or method of electronic storage is 100% guaranteed secure. Despite our best efforts, we cannot guarantee its absolute security.
