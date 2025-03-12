@@ -35,9 +35,9 @@ You may not transfer or sell access to your account. We are not responsible for 
 You may not use another user's account without their permission. You will immediately notify us in writing if you discover any unauthorized activities of your account. We may require you to change your account identification such as mentioned above if we believe your account is vulnerable, or if we receive a complaint that your account violates someone else's rights.
 
 You are entirely responsible for all data you enter, including your account information. Any errors, typos, or mistakes—whether intentional or not—that result in incorrect data are your full responsibility, along with any consequences.
-This includes, but not limited to: bank account numbers, legal names, and hosted event names.
+This includes, but not limited to your bank account numbers, legal names, and hosted event names.
 
-You will have no ownership in your account, meaning that we can terminate, or modify your account at any time, with or without notice or your permission if things does not align with our Terms.
+Your account is provided as part of our services, and we reserve the right to modify or terminate it with reasonable notice if it does not comply with our Terms.
 
 We may prevent registration, disable an account, or deny access to the Platform for any reason.
 
