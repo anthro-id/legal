@@ -7,6 +7,7 @@ Our other policies such as [Privacy Policy](/legal/privacy-policy) may be applic
 By visiting or using the Platform, you hereby consent to these Terms of Use or Service, as updated from time to time.
 
 # Definitions
+- **We** or **Us** — refers to us, **Anthro.id** team, and/or developers.
 - **Platform** — refers to our site that you're currently visiting right now, **Anthro.id**.
 - **Services** — refers to our products inside the website.
 - **You** / **Your** — refers to you. If you're accessing our Platform on behalf of a legal individual or entity (employer, for instance), you agree that you have the responsibility to combine that individual/entity to these terms, and "you" and "your" will refer to that individual/entity.
