@@ -112,11 +112,11 @@ Based on **Indonesia Law Number 27 of 2022 on Personal Data Protection, Chapter 
 - **Right to portability**, meaning that you have a right to request to convert your personal data to another data controller in a common, human-readable format such as Excel or a spreadsheet.
 - **Right to complain with a supervisory authority**, meaning that you have a right of appeal to authorities if you believe that the processing of your personal data violates data protection law.
 
-This section only applies on PII (Personally Identifiable Information), which is something to fully identify the consumer.
+This section applies only to **Personally Identifiable Information (PII)**—data that can fully identify you as an individual.
 
-Technical data (as we stated above the [What Information We Collect?](/legal/privacy#what-information-we-collect)) will not be covered by **Your Rights** section policy since it is a crucial piece of information so we can protect and operate our Platform.
+However, technical data (as we stated above the [What Information We Collect?](/legal/privacy#what-information-we-collect)) is not covered under this policy. This type of data is essential for maintaining the security and functionality of our Platform.
 
-Technical data that we meant are including, but not limited to your user ID, IP address, browser identification, language, and cookies.
+Technical data includes, but is not limited to your user ID, IP address, browser identification, language, and cookies.
 
 Please read our [terms, section 5](/legal/terms#5-use-of-the-platform-outside-indonesia) for **Your Rights** outside Indonesia.
 
