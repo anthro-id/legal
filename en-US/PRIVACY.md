@@ -11,7 +11,7 @@ It is important that you read the policy that we provided, but here's a summary 
 
 - **We give you control.** This means we provide multiple options to opt out your personal information from our Platform, either partially or fully (such as deleting your account).
 
-- **We don't sell your personal information.** Our business is based on features and/or services that we provided to our users, not from selling your personal information to other parties.
+- **We don't sell your personal information.** Our platform is based on features and/or services that we provided to our users, not from selling your personal information to other parties.
 
 - **For us, and others safety.** We use certain information to help identify violations of our [Terms of Use](/legal/terms) and to prevent unlawful activities from occurring on the Platform.
 
