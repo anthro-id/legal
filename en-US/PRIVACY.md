@@ -45,10 +45,6 @@ We explicitly state that we only collect this data when you have given us consen
   - We **DO NOT** collect any more information other than stated above including, but not limited to your credit card information, and other sensitive information related with payments.
   - For more information about how we and our vendors collect your payments data, please see **Payment Processing** section below.
 
-- **Your eligibility.** (optional)
-  - Some of our features, products, or services requires providing licenses or agreements that you are eligible to use some of our services including, but not limited to a parental consent form.
-
-
 # Purposes
 We may disclose your personal data in the good faith belief that such action is necessary stated below.
 
