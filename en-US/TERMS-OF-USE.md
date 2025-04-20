@@ -66,7 +66,7 @@ By submitting your Content to our Platform, you grant us a worldwide, non-exclus
 
 This license does not grant us rights for commercial use outside of our Platform.
 
-You retain full ownership of your Content, and the license stated above will terminate when you delete your Content unless it has been shared with others who have not deleted it.
+This also does not give us any ownership of your content—you still retain all ownership and intellectual property rights.
 
 We will not, and never will, sell or transfer your Content to third parties.
 
