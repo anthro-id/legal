@@ -108,7 +108,16 @@ The Platform is intended for individuals residing in Indonesia. We do not guaran
 
 We reserve the right to limit access or visibility to the Platform, services, or products to specific individuals or geographic regions at any time.
 
-Users outside Indonesia are responsible for ensuring their use of the Platform complies with their local laws.
+Below are the listed countries that are not allowed to use the Platform due to safety reasons, including:
+- Cuba
+- Iran
+- North Korea
+- Syria
+- Israel
+- Russian Federation
+- Belarus
+- Venezuela
+
 
 ## 6. Parental Controls
 For more information about parental controls, please refer to our [Underage Individuals'](/legal/underage) policy segment.
