@@ -118,6 +118,7 @@ Below are the listed countries that are not allowed to use the Platform due to s
 - Belarus
 - Venezuela
 
+Users outside Indonesia are responsible for ensuring their use of the Platform complies with Indonesia laws and their local laws.
 
 ## 6. Parental Controls
 For more information about parental controls, please refer to our [Underage Individuals'](/legal/underage) policy segment.
