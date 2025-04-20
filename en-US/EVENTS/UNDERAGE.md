@@ -4,12 +4,9 @@ This policy covers how event organizers handles underage individuals.
 Please see [Underage Individuals' Policy](/legal/underage) for how we handles accounts for underage individuals on our platform.
 
 # Event Creation
-For local event or convention with more than 50 attendees, a parent or legal guardian **must** sign and submit a digital copy of the **Underage Event Creation Authorization** form, provided by us.
-  - A duty stamp is optional but recommended just in case, we recommend you to use [e-meterai.co.id](https://e-meterai.co.id/) for digital form signing.
+For safety reasons, you need to be at least 18 years old to become an event organizer with Anthro.id.
 
 Alternatively, you can bring someone who is older (more than or equals to 18 years old) than the individual to create an event and follow a normal procedure.
-
-We do not endorse the products or services listed above.
 
 # Guardian Agreements
 A parent or legal guardian ***must*** print, sign, and submit a physical/digital copy of the **Underage Attendance Authorization** form—provided by us, or the event organizer—to the event organizer before or when the event begins.
