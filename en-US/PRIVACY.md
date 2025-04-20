@@ -118,9 +118,7 @@ Based on **Indonesia Law Number 27 of 2022 on Personal Data Protection, Chapter 
 
 This section applies only to **Personally Identifiable Information (PII)**—data that can fully identify you as an individual.
 
-However, technical data (as we stated above the [What Information We Collect?](/legal/privacy#what-information-we-collect)) is not covered under this policy. This type of data is essential for maintaining the security and functionality of our Platform.
-
-Technical data includes, but is not limited to your user ID, IP address, browser identification, language, and cookies.
+PII is a personal data, including but not limited to your legal name, date of birth, and gender.
 
 Please read our [terms, section 5](/legal/terms#5-use-of-the-platform-outside-indonesia) for **Your Rights** outside Indonesia.
 
