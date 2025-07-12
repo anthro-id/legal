@@ -51,9 +51,8 @@ We may disclose your personal data in the good faith belief that such action is 
 - **To provide you with our contents** when you:
   - use our features and services (for example to create an article) so we can ensuring that we can deliver, manage, and optimize your experience on our platform.
 
-- **To comply with a legal obligation, protect our Platform, rights and safety of others**. We may use this information to:
-  - prevent misuse of our intellectual property, fraud, or other similar activities,
-  - protect ourselves against legal liability,
+- **To comply with a legal obligation, protect our Platform, rights and safety of others**. We may use this information when necessary to:
+  - prevent misuse of our intellectual property, fraud, or other similar activities, and
   - protect our users and ensure the safety of others.
     - We use [Cloudflare](https://cloudflare.com) to protect our platform and Cloudflare [Privacy Policy](https://cloudflare.com/privacy) and [Terms of Service](https://www.cloudflare.com/website-terms/) apply.
 
