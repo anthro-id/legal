@@ -123,7 +123,20 @@ Users outside Indonesia are responsible for ensuring their use of the Platform c
 ## 6. Parental Controls
 For more information about parental controls, please refer to our [Underage Individuals'](/legal/underage) policy segment.
 
-## 7. DISCLAIMER OF WARRANTIES
+## 7. Terminations
+## Your Right
+You are free to stop using anthro.id at anytime and for any reason. This can be done by visiting your user profile and discontinue use of the services.
+
+## Our Right
+We are committed to create a safe and protected space inside the Platform.
+
+We also reserve the rights to restrict, suspend, and/or terminate your account and/or access to some of our services or even whole as a Platform, with or without any notice, at our discretion for any reason.
+
+We also believe that we reserve the rights to do this under one or many following reasons:
+- If things does not align with our Terms, such as Standards of Conducts, or additional terms that apply to specific services.
+- We are required to do so to comply with a court order.
+
+## 8. DISCLAIMER OF WARRANTIES
 We strive to provide a seamless experience for users and visitors, but we cannot guarantee that every aspect of the Platform will function without interuptions.
 
 THE PLATFORM, INCLUDING ALL FEATURES, SERVICES, AND CONTENT, IS PROVIDED ON AN 'AS-IS' AND 'AS-AVAILABLE' BASIS, WITHOUT ANY WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED.
@@ -131,15 +144,15 @@ YOUR USE OF THE SERVICES IS AT YOUR SOLE RISK. WHILE WE STRIVE TO PROVIDE A SEAM
 WE ARE NOT RESPONSIBLE FOR ANY ACTIONS, ERRORS OF THIRD PARTIES, INCLUDING EVENT ORGANIZERS, PAYMENT PROCESSORS, OR ANY EXTERNAL SERVICE PROVIDERS THAT INTERACT WITH OUR PLATFORM. ANY TRANSACTIONS OR INTERACTIONS YOU HAVE WITH EVENT ORGANIZERS OR OTHER USERS ARE AT YOUR OWN RISK.
 TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, INCLUDING, BUT NOT LIMITED TO, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
 
-## 8. LIMITATION OF LIABILITY
+## 9. LIMITATION OF LIABILITY
 TO THE FULLEST EXTENT PERMITTED BY LAW, ANTHRO.ID, ITS AFFILIATES, PARTNERS, EVENT ORGANIZERS, AND SERVICE PROVIDERS SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF PROFITS, DATA, OR BUSINESS OPPORTUNITIES, ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF THE PLATFORM, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
 OUR TOTAL LIABILITY TO YOU FOR ANY CLAIM ARISING FROM OR RELATING TO YOUR USE OF THE PLATFORM SHALL NOT EXCEED [A] THE TOTAL AMOUNT YOU HAVE PAID TO US (IF ANY) IN THE PAST THREE (3) MONTHS BEFORE YOU FIRST ASSERT A CLAIM, OR [B] $100 OR IDR 1,600,000 [AS IN MARCH 2025] (OR THE EQUIVALENT IN YOUR LOCAL CURRENCY)
 
 IN JURISDICTIONS WHERE LIMITATION OF LIABILITY IS RESTRICTED, OUR LIABILITY SHALL BE LIMITED TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
 
-## 9. Questions
+## 10. Questions
 If you have questions about our Terms, please contact us either through our [contact page](/contact) or email us at [mail@anthro.id](mailto:mail@anthro.id).
 
-## 10. Finale
+## 11. Finale
 By using our Platform, you agree to our terms and conditions/services/use.
