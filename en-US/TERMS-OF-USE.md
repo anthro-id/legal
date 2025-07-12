@@ -37,10 +37,6 @@ You may not use another user's account without their permission. You will immedi
 You are entirely responsible for all data you enter, including your account information. Any errors, typos, or mistakes—whether intentional or not—that result in incorrect data are your full responsibility, along with any consequences.
 This includes, but not limited to your bank account numbers, legal names, and hosted event names.
 
-Your account is provided as part of our services, and we reserve the right to modify or terminate it with reasonable notice if it does not comply with our Terms.
-
-We may prevent registration, disable an account, or deny access to the Platform for any reason.
-
 ## 2. Standards of Behavior
 You agree that you will comply with all applicable laws (including local laws in Indonesia), rules and regulations, that you will not:
 - Restrict any other person from using the Platform.
