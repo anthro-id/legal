@@ -32,10 +32,11 @@ We explicitly state that we only collect this data when you have given us consen
     - This helps us improve service functionality, detect potential abuse, and optimize regional settings.
     - No personally identifiable information is shared with these providers beyond the IP address itself.
 
-- **Your identification.** (optional)
+- **Your identification.** (semi-optional)
   - Including your email address and a password.
-  - Optionally, you may provide personal data to our Platform, such as your legal name, pseudonym, date of birth, and/or gender.
-  - Some of our features, products, or services requires collecting sensitive information including, but not limited to your identification number from your valid government-issued ID card, and your biometric data.
+  - When you register a new account, some data will be collected and associated to your account, such as a region of where you created the account.
+  - Optionally, you may provide personal data to our Platform, such as your legal name, pseudonym, date of birth, and more.
+  - Some of our features, products, or services **may forward certain data** to third parties, but **only with your explicit consent** and solely for purposes necessary to deliver those services.
 
 - **Your contact.** (optional)
   - Including your contact email, phone number.
