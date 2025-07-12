@@ -49,6 +49,21 @@ We explicitly state that we only collect this data when you have given us consen
   - For more information about how we and our vendors collect your payments data, please see **Payment Processing** section below.
 
 We do not collect anything more than stated above.
+
+# What Information We May Forward to Third Parties?
+In some cases, we may forward certain data to our third parties when necessary.
+
+### Anthro.id / Events
+We may share certain data — such from your legal name up to partial of your transaction record — with our verified event organizers to help ensure a smoother and more secure check-in experience.
+
+### Analytics
+We may share your technical data to [Cloudflare Web Analytics](https://cloudflare.com/) to help us understand and improve our platform in terms of security.
+
+### Payments
+To protect our platform from automated abuse and ensure secure user interactions, we will forward your certain data from technical to personal information to [Google reCAPTCHA Enterprise](https://cloud.google.com/recaptcha/) and our payments processing gateway.
+
+For more information about the payments gateway, see **Payment Processing** section down below.
+
 # Purposes
 We may disclose your personal data in the good faith belief that such action is necessary stated below.
 
