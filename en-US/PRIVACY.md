@@ -7,7 +7,7 @@ In this section, we provide an overview of our privacy practices.
 # Summary
 It is important that you read the policy that we provided, but here's a summary to get you started:
 
-- **We keep it simple and minimal.** In order to create an account, all you need is an email and a password. You are not required to fill your personal data on our Platform until you decide to.
+- **We keep it simple and minimal.** In order to create an account, all you need is an email and a password. We collect only the minimum amount of personal data necessary, unless you choose to provide more.
 
 - **We give you control.** This means we provide multiple options to opt out your personal information from our Platform, either partially or fully (such as deleting your account).
 
