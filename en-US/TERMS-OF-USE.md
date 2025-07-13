@@ -130,7 +130,7 @@ We also reserve the rights to restrict, suspend, and/or terminate your account a
 
 We also believe that we reserve the rights to do this under one or many following reasons:
 - If things does not align with our Terms, such as Standards of Conducts, or additional terms that apply to specific services.
-- We are required to do so to comply with a court order.
+- If we are required to do so to comply with a court order.
 
 ## 8. DISCLAIMER OF WARRANTIES
 We strive to provide a seamless experience for users and visitors, but we cannot guarantee that every aspect of the Platform will function without interuptions.
