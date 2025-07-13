@@ -91,7 +91,9 @@ For now, we only offer separated payout.
 
 ## End-to-End Timing
 ### Event Organizers
-You can only submit your payout 7 days after the event ended.
+You can submit your payout 7 days after the event ended. This waiting period allows attendees time to submit complaints if they have any.
+
+Your payout will be paused if there are one or more complaints.
 
 ## Payment Vendors Timing
 Both payment gateways take longer—usually to 3 up to 5 business days, though this may vary due to weekends, national holidays, or bank processing schedules.
