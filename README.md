@@ -8,7 +8,7 @@ We host our policies on GitHub to ensure transparency, allowing you to see when 
 We will give a public notice to our users and/or visitors somewhere about 14 up to 28 days before the effective date.
 
 # "Preview" Branch
-The [**Preview**](https://github.com/anthro-id/legal/tree/preview) branch is a draft, an incomplete version of our Platform policies. There will be lots of changes and it will remain a draft or unofficial until it is pushed to the **main** branch.
+The [**Preview**](https://github.com/anthro-id/legal/tree/preview) branch is a draft, an incomplete version of our Platform policies. There will be lots of changes and it will remain a draft or unofficial until it is pushed to the <u>**main**</u> branch.
 
 # Questions
 If you have questions, please contact us either through our [about page](https://anthro.id/contact), our [email](mailto:mail@anthro.id), or [create an issue in this GitHub repository](https://github.com/anthro-id/legal/issues).
