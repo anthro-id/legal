@@ -13,6 +13,8 @@ Ditjen AHU (short for "Direktorat Jenderal Administrasi Hukum Umum") is a Direct
 
 We are compliant with the regulatory requirements set by Ditjen AHU and are listed in the official registry since July 2025.
 
+Reg. Number: `AHU-036220.AH.01.30.2025`.
+
 ## PCI DSS
 We stated clearly in our [privacy policy](/legal/privacy) that we do not store personal credit card information for any of our users.
 
