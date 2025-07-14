@@ -6,6 +6,9 @@ In summary, most of our services are rely on our merchants decision, meaning tha
 
 For event services, please visit [Refund Policy: Events](/en-US/EVENTS/REFUND.md).
 
+# Donation
+In general, donations are considered to be final and non-refundable.
+
 # Chargeback
 It is important to read refund policy (from both sides, between the event organizer and platform policy) before you commit to purchase.
 
