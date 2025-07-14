@@ -11,17 +11,12 @@ It is important to read refund policy (from both sides, between the event organi
 
 Before issuing chargebacks, it is crucial to communicate with the platform (and third-parties, if available) so both parties can issue you a proper refund.
 
-### About Consumer's Remorse
-If possible, we will ask the consumer's to revoke or appeal their chargeback claim while working together to find a better resolution (with third-parties, if available)
+We will ask the consumer's to revoke or appeal their chargeback claim while working together to find a better resolution (with third-parties, if involved)
 
-Otherwise, read the **Verdict** section below.
-
-## Resolution
 If you think the chargeback was fraudulent or unfair, you can dispute it by getting a contact to **Anthro.id** team through our [contact page](/contact) and providing:
 - Proof of purchase (email confirmation, invoices from your payment or wallet app)
 - Identification card or any form that can identify you ("KTP" or national card ID, "SIM" or driver's license, passport, etc.)
 
-## Verdict
 If the consumer's refuses to cooperate, we will work with the consumer's bank to prove their purchase was valid and subsequently terminate their account for breaking our Terms of Service and block the credit card information from future purchases.
 
 # Refund Coverage Details
