@@ -5,6 +5,7 @@ We are committed to building trust and maintaining transparency in our platform.
 
 # Pages
 - [Compliance](/en-US/TRUST-FOOTPRINT/READ-ONLY/COMPLIANCE.md)
+- [Data Security](/en-US/TRUST-FOOTPRINT/READ-ONLY/DATA-SECURITY.md) explains how we protect our users' data.
 - [Infrastructure](/en-US/TRUST-FOOTPRINT/READ-ONLY/INFRASTRUCTURE.md) explains what infrastructures are we use.
 - [Legal](/en-US/TRUST-FOOTPRINT/READ-ONLY/LEGAL.md) listed URLs of whitepapers of **Anthro.id** and third-parties policies.
 - [Product Security](/en-US/TRUST-FOOTPRINT/READ-ONLY/PRODUCT-SECURITY.md) explains what features we implement for our users' in order to protect their account.
