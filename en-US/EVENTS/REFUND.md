@@ -1,5 +1,7 @@
 # Overview
-This policy states our refund policy for our service named **Anthro.id / Events**.
+This policy states our refund policy for our services named **Anthro.id / Events**.
+
+This is an extended version of our Refund Policy.
 
 # Under Event Organizer Policy
 If an event organizer has a refund policy, that policy applies to the event, not ours.
@@ -22,7 +24,7 @@ You may request to cancel your ticket for a:
 - **partial refund (50%)**, between 7 (seven) and 29 (twenty nine) days before the date and time of the event.
 - **no refund**, less than 7 (seven) days before the date and time of the event.
 
-# Force Majeure / Damnum Fatale
+# Force Majeure
 In the event of unforeseen circumstances beyond the control of the Platform (**Anthro.id**) or the event organizer, including but not limited to natural catastrophe(s), government regulations, pandemics, or any other force majeure event, both the Platform and the event organizer reserve the right to issue **a full refund to all attendees, no questions asked**.
 
 Refunds under force majeure circumstances will be processed in accordance with the timeline and method determined by the event organizer and **Anthro.id.** Any transaction fees or processing charges (e.g. bank transfers) may be deducted where applicable.
@@ -31,18 +33,13 @@ The Platform and the event organizer are not liable for any additional costs, da
 
 For more information on what is included in force majeure, you can [visit this page](https://en.wikipedia.org/wiki/Force_majeure).
 
-# Refund Coverage Details
-Refunds, if applicable, will only cover the base ticket price paid by the attendee. Any additional fees, including but not limited to platform fees, payment processing fees, VAT, currency conversion fees, and/or other service charges, **are non-refundable/reversible.**
+Please read **Refund Coverage Details** section below for more information about how much you will get refunded.
 
+# Refund Coverage Details
 In cases where an event organizer issues a refund, the amount returned to you will be subject to deductions based on these non-refundable charges. The final refund amount may also depend on the event organizer’s own policies and agreements.
 
-# Under Account Termination
-If your **Anthro.id** account is terminated for some reasons, you have no rights to issue any refunds until your account is reinstated.
-
 # Request
-You can request a refund through your [profile page](/user/profile), under **Your Ticket** section, select the event that you want to issue a refund  and follow the on-screen instructions.
-
-You can also request a refund through our [contact page](/contact) to issue a refund to see if your expectations align with the event organizer's refund policy.
+If available, you can request a refund through your [profile page](/user/profile), under **Your Ticket** section, select the event that you want to issue a refund and follow the on-screen instructions.
 
 # Refund Verification
 Refund verification (a state whether your ticket will be refunded, or not) typically depends on the event organizer, who has up to 7 days to make a decision.
@@ -56,5 +53,5 @@ The meaning of good faith reasons are including, but not limited to:
 - **non-refundable ticket(s)**, the event organizer clearly stated that tickets are non-refundable at the time of purchase.
 - **violation**, the event organizer reserves the right to void a ticket if the attendee is found in violation of event policies, such as engaging in disruptive behavior, unauthorized ticket reselling, or other related infractions.
 
-# Contact
-If you have concerns or questions about our refund policy, you can provide us a message through our [contact page](/contact).
+# General
+This is an extended version of our refund policy. For more information, visit [Refund Policy](/en-US/REFUND.md).
