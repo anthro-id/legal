@@ -4,7 +4,7 @@ This is a directory where we reveal our streamlined security practices.
 We are committed to building trust and maintaining transparency in our platform. This page is designed to provide you with the information and assurance you need to feel confident in our ability to protect your data.
 
 # Pages
-- [Compliance](/en-US/TRUST-FOOTPRINT/READ-ONLY/COMPLIANCE.md)
+- [Compliance](/en-US/TRUST-FOOTPRINT/READ-ONLY/COMPLIANCE.md) explains our adherence to Indonesian regulations, including business registration, data protection laws, and industry standards.
 - [Data Processing](/en-US/TRUST-FOOTPRINT/READ-ONLY/DATA-PROCESSING.md) explains how we process our users' data.
 - [Data Security](/en-US/TRUST-FOOTPRINT/READ-ONLY/DATA-SECURITY.md) explains how we protect our users' data.
 - [Infrastructure](/en-US/TRUST-FOOTPRINT/READ-ONLY/INFRASTRUCTURE.md) explains what infrastructures are we use.
