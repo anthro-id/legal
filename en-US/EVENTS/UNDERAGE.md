@@ -10,11 +10,8 @@ Alternatively, you can bring someone who is older (more than or equals to 18 yea
 
 # Guardian Agreements
 A parent or legal guardian ***must*** print, sign, and submit a physical/digital copy of the **Underage Attendance Authorization** form—provided by us, or the event organizer—to the event organizer before or when the event begins.
-  - A duty stamp is optional but recommended just in case, we recommend you to use [e-meterai.co.id](https://e-meterai.co.id/) for digital form signing.
 
 A copy may also be submitted to **Anthro.id**, but only if the event organizer has granted us permission to store it.
-
-We do not endorse the products or services listed above.
 
 # Attendance
 This policy depends on the preferred event policy, if they have one.
