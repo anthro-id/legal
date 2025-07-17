@@ -2,7 +2,7 @@
 **Anthro.id** performs automated backups that ran regularly both on [Google Cloud](https://cloud.google.com) and [Amazon Web Services](https://aws.amazon.com) to protect internal and users' data from loss.
 
 # At Rest
-All user data is encrypted at rest using AES-256 with the help of Google Cloud features.
+All user data (especially [PII](https://en.wikipedia.org/wiki/Personal_data)-related) is encrypted at rest with the help of Google Cloud features.
 
 # Transit
 All user data is encrypted in-transit.
