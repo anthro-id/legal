@@ -1,6 +1,3 @@
-# Credentials
-**Anthro.id** utilizes [Dotenv](https://dotenv.org) and [AWS KMS](https://aws.amazon.com/kms) to manage infrastructure secrets and consumers sensitive information.
-
 # Data Backups
 **Anthro.id** performs automated backups that ran regularly both on [Google Cloud](https://cloud.google.com) and [Amazon Web Services](https://aws.amazon.com) to protect internal and users' data from loss.
 
