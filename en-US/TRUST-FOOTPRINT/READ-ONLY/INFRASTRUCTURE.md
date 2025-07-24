@@ -16,4 +16,5 @@
 
 ## Miscellaneous
 - [**IPinfo**](https://ipinfo.io) - (United States)
+- [**Mapbox**](https://mapbox.com) - (United States)
 - [**Wise**](https://wise.com) - (United Kingdom)
