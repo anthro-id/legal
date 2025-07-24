@@ -1,0 +1,62 @@
+[
+  {
+    "section": "Consumers' Agreements",
+    "index": "consumer",
+    "list": [
+      {
+        "name": "Privacy Policy",
+        "lastUpdated": "23 July 2025",
+        "filePath": "PRIVACY",
+        "path": ["privacy", "privacy-policy"]
+      },
+      {
+        "name": "Terms of Use",
+        "lastUpdated": "23 July 2025",
+        "filePath": "TERMS-OF-USE",
+        "path": ["terms", "terms-of-use"]
+      },
+      {
+        "name": "Refund Policy",
+        "lastUpdated": "23 July 2025",
+        "filePath": "REFUND",
+        "path": ["refund", "refund-policy"]
+      },
+      {
+        "name": "Underage Individuals Policy",
+        "lastUpdated": "23 July 2025",
+        "filePath": "UNDERAGE",
+        "path": ["underage", "underage-policy"]
+      },
+      {
+        "name": "Payment Processing Policy",
+        "lastUpdated": "23 July 2025",
+        "filePath": "PAYMENT",
+        "path": ["payment", "payment-processing", "payment-policy"]
+      }
+    ]
+  },
+  {
+    "section": "'Event' Terms",
+    "index": "event",
+    "list": [
+      {
+        "name": "Refund Policy (Extended)",
+        "lastUpdated": "23 July 2025",
+        "filePath": "EVENTS/REFUND",
+        "path": ["refund", "refund-policy"]
+      },
+      {
+        "name": "Ticket Transferring Policy",
+        "lastUpdated": "23 July 2025",
+        "filePath": "EVENTS/TRANSFER",
+        "path": ["transfer", "transfer-policy"]
+      },
+      {
+        "name": "Underage Attendees Policy",
+        "lastUpdated": "23 July 2025",
+        "filePath": "EVENTS/UNDERAGE",
+        "path": ["underage", "underage-policy"]
+      }
+    ]
+  }
+]
