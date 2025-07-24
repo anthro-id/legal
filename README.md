@@ -4,6 +4,10 @@ This is our official GitHub repository containing our legal documents, which are
 # Transparency
 We host our policies on GitHub to ensure transparency, allowing you to see when and how our policies have been updated.
 
+# Versions
+- **Oct 31st, 2024** / [Archive](https://github.com/anthro-id/legal/tree/38af015)
+  - Privacy policy only.
+
 # Notice
 We will give a public notice to our users and/or visitors somewhere about 14 up to 28 days before the effective date.
 
