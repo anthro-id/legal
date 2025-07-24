@@ -5,6 +5,7 @@ This is our official GitHub repository containing our legal documents, which are
 We host our policies on GitHub to ensure transparency, allowing you to see when and how our policies have been updated.
 
 # Versions
+- **Jul 25th, 2025** / [Archive](https://github.com/anthro-id/legal/tree/f242b8e)
 - **Oct 31st, 2024** / [Archive](https://github.com/anthro-id/legal/tree/38af015)
   - Privacy policy only.
 
