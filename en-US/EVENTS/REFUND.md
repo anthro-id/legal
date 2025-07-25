@@ -25,11 +25,11 @@ You may request to cancel your ticket for a:
 - **no refund**, less than 7 (seven) days before the date and time of the event.
 
 # Force Majeure
-In the event of unforeseen circumstances beyond the control of the Platform (**Anthro.id**) or the event organizer, including but not limited to natural catastrophe(s), government regulations, pandemics, or any other force majeure event, both the Platform and the event organizer reserve the right to issue **a full refund to all attendees, no questions asked**.
+In the event of unforeseen circumstances beyond the control of the Platform (**Anthro.id**) or the event organizer, including but not limited to natural catastrophe(s), government regulations, pandemics, or any other force majeure event, both the Platform and the event organizer reserve the right to honor applicable refund policies.
 
 Refunds under force majeure circumstances will be processed in accordance with the timeline and method determined by the event organizer and **Anthro.id.** Any transaction fees or processing charges (e.g. bank transfers) may be deducted where applicable.
 
-The Platform and the event organizer are not liable for any additional costs, damages, or losses incurred by attendees due to a force majeure event. This includes, but not limited to, accommodations, travel, or any other expenses outside our Platform or the event organizer itself.
+The Platform and the event organizer are not liable for any additional costs, damages, or losses incurred by attendees due to a force majeure event. This includes, but is not limited to, accommodations, travel expenses, lost wages, or any other costs beyond the ticket purchase price. The Platform's liability is limited solely to ticket refunds as specified in our refund policy.
 
 For more information on what is included in force majeure, you can [visit this page](https://en.wikipedia.org/wiki/Force_majeure).
 
