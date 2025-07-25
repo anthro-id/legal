@@ -1,7 +1,7 @@
 # Overview
 This policy covers how event organizers handles underage individuals.
 
-Please see [Underage Individuals' Policy](/legal/underage) for how we handles accounts for underage individuals on our platform.
+Please see [Underage Individuals' Policy](/legal/consumer/underage) for how we handles accounts for underage individuals on our platform.
 
 # Event Creation
 For safety reasons, you need to be at least 18 years old to become an event organizer with Anthro.id.

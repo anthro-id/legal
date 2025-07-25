@@ -107,7 +107,7 @@ You can read more information about their timing here:
 ## Billing Address
 If you are using cards or PayPal as a payment method, it is mandatory to fill the billing address. This step is quite common to reduce fraud.
 
-We collect this information to forward it to and be processed by our payment vendors. As stated in our [privacy policy](/legal/privacy), we do not collect any data beyond what is mentioned above, unless you have given us permission to do so.
+We collect this information to forward it to and be processed by our payment vendors. As stated in our [privacy policy](/legal/consumer/privacy), we do not collect any data beyond what is mentioned above, unless you have given us permission to do so.
 
 You can read more information about the [Importance of Billing Address](https://www.deskera.com/blog/billing-address/#why-is-it-important-to-update-the-billing-address) here.
 
