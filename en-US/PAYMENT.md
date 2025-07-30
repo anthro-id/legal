@@ -22,7 +22,7 @@ If you are an Indonesian resident, **we strongly recommend** that you continue u
 
 Our platform fees are automatically deducted at the time of payment processing. This means the amount shown in your balance is already your net payout amount—no additional platform fees will be deducted during withdrawal. You will only need to factor in payment gateway fees for your final calculation.
 
-Updated since June 1st, 2024.
+Updated since June 1st, 2025.
 
 ## Payment Fees (Situational)
 Payment fees depend on our payment vendors.
