@@ -28,9 +28,8 @@ Updated since June 1st, 2024.
 Payment fees depend on our payment vendors.
 
 - For local payment vendors, please visit [Midtrans pricing page](https://midtrans.com/pricing) for more details.
-- For international payment vendors (mainly [PayPal](https://paypal.com)), we use fixed percentage and a flat fee instead of relying on [PayPal Consumer Fees](https://paypal.com/webapps/mpp/paypal-fees) to prevent complications between us (as a platform) and our users.
-  - The fee is **5%** + **0.50 $**.
-  - Updated since April 1st, 2024.
+- For international payment vendors (mainly [PayPal](https://paypal.com)), we do not charge additional payment processing fees, though merchants may adjust their pricing as needed.
+  - Updated since July 30th, 2025.
 
 ### Google Pay
 If available, [Google Pay](https://support.google.com/googleplay/answer/6224192?hl=en) relies on bank or card provider fees, so it's best to consult them if you have any concerns.
