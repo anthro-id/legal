@@ -50,8 +50,8 @@ We explicitly state that we only collect this data when you have given us consen
 
 We do not collect anything more than stated above.
 
-# What Information We May Forward to Third Parties?
-In some cases, we may forward certain data to our third parties when necessary.
+# What Information We May Share to Third Parties?
+In some cases, we may share limited information with third parties where it is necessary to provide our services or operate the Platform
 
 ### Merchants
 We may share certain data — such from your legal name up to partial of your transaction record — with our verified event organizers to help ensure a smoother and more secure check-in experience.
