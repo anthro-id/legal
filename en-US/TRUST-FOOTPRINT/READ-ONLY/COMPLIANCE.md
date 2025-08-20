@@ -23,7 +23,7 @@ We are compliant with the regulatory requirements set by Komdigi and are listed 
 PSE Reg. Number: `019551.01/DJAI.PSE/08/2025`
 
 ## PCI DSS
-We stated clearly in our [privacy policy](/legal/privacy) that we do not store personal credit card information for any of our users.
+We stated clearly in our [privacy policy](/legal/consumer/privacy) that we do not store personal credit card information for any of our users.
 
 Most of the payments rely on [Midtrans](https://midtrans.com) and [PayPal](https://paypal.com) to process transactions, which is PCI-DSS compliant.
 
@@ -40,7 +40,7 @@ For more information, please visit:
 While **anthro.id** is based in Indonesia, we provide the same standard of privacy protection to all our users around the world, regardless of their country of origin or location.
 
 For users in the European Union, we follow the principles of the General Data Protection Regulation (GDPR) by, in summary:
-- collecting only necessary data that we previously stated in our [privacy policy](https://anthro.id/legal/privacy) and with consent,
+- collecting only necessary data that we previously stated in our [privacy policy](/legal/consumer/privacy) and with consent,
 - allowing you to access, update, or delete your personal data,
 - providing transparency on how your data is processed,
 - offering clear ways to withdraw consent at any time.

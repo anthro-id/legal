@@ -3,7 +3,7 @@ Welcome to Anthro.id (abbr. Anthro Indonesia)!
 
 The following page are the terms of use ("Terms") that govern your use of Anthro.id's platform, including [https://anthro.id](https://anthro.id) (collectively, the "Platform").
 
-Our other policies such as [Privacy Policy](/legal/privacy-policy) may be applicable to some features on the platform are also incorporated into the Terms.
+Our other policies such as [Privacy Policy](/legal/consumer/privacy-policy) may be applicable to some features on the platform are also incorporated into the Terms.
 By visiting or using the Platform, you hereby consent to these Terms of Use or Service, as updated from time to time.
 
 # Definitions
@@ -13,7 +13,7 @@ By visiting or using the Platform, you hereby consent to these Terms of Use or S
 - **You** / **Your** — refers to you. If you're accessing our Platform on behalf of a legal individual or entity (employer, for instance), you agree that you have the responsibility to combine that individual/entity to these terms, and "you" and "your" will refer to that individual/entity.
 
 # Underage Notice
-Please refer to our [Underage Individuals'](/legal/underage) policy segment.
+Please refer to our [Underage Individuals'](/legal/consumer/underage) policy segment.
 
 # Future Changes
 We may change our Terms of Use from time to time with notice. 
@@ -68,7 +68,7 @@ We will not, and never will, sell or transfer your Content to third parties.
 
 You are responsible for the content that you submit to us and any consequences that arise from its use.
 
-You may not upload content that violates laws and regulations, infringes intellectual property, contains explicit or harmful material, as outlined in our **[Standards of Behavior](/legal/terms#2-standards-of-behavior)**.
+You may not upload content that violates laws and regulations, infringes intellectual property, contains explicit or harmful material, as outlined in our **[Standards of Behavior](/legal/consumer/terms#2-standards-of-behavior)**.
 
 If we receive a complaint that your Content does not comply with our Terms, we may investigate and decide to remove your Content or disable your account. You will be responsible for any Content that infringes on the rights of a third party, and we may require you to compensate us for any costs incurred in resolving such complaints.
 
@@ -117,7 +117,7 @@ Below are the listed countries that are not allowed to use the Platform due to s
 Users outside Indonesia are responsible for ensuring their use of the Platform complies with Indonesia laws and their local laws.
 
 ## 6. Parental Controls
-For more information about parental controls, please refer to our [Underage Individuals'](/legal/underage) policy segment.
+For more information about parental controls, please refer to our [Underage Individuals'](/legal/consumer/underage) policy segment.
 
 ## 7. Terminations
 ### Your Right

@@ -29,7 +29,7 @@
       },
       {
         "name": "Payment Processing Policy",
-        "lastUpdated": "23 July 2025",
+        "lastUpdated": "30 July 2025",
         "filePath": "PAYMENT",
         "path": ["payment", "payment-processing", "payment-policy"]
       }

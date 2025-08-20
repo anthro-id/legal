@@ -13,13 +13,13 @@ It is important that you read the policy that we provided, but here's a summary 
 
 - **We don't sell your personal information.** Our platform is based on features and/or services that we provided to our users, not from selling your personal information to other parties.
 
-- **For us, and others safety.** We use certain information to help identify violations of our [Terms of Use](/legal/terms) and to prevent unlawful activities from occurring on the Platform.
+- **For us, and others safety.** We use certain information to help identify violations of our [Terms of Use](/legal/consumer/terms) and to prevent unlawful activities from occurring on the Platform.
 
 
 # Compliance Laws and Regulations in Indonesia
 We comply with Indonesia regulation laws, in accordance with the provisions set out in the [**Undang-Undang No. 27 Tahun 2022 tentang Perlindungan Data Pribadi (UU PDP)**](https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022) or [**Law Number 27 of 2022 on Personal Data Protection**](https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022).
 
-If you are using the Platform outside Indonesia, please read our **[Terms of Use](/legal/terms) section 5**.
+If you are using the Platform outside Indonesia, please read our **[Terms of Use](/legal/consumer/terms) section 5**.
 
 
 # What Information We Collect?
@@ -145,7 +145,7 @@ This section applies only to **Personally Identifiable Information (PII)**—dat
 
 PII is a personal data, including but not limited to your legal name, date of birth, and gender.
 
-Please read our [terms, section 5](/legal/terms#5-use-of-the-platform-outside-indonesia) for **Your Rights** outside Indonesia.
+Please read our [terms, section 5](/legal/consumer/terms#5-use-of-the-platform-outside-indonesia) for **Your Rights** outside Indonesia.
 
 
 # Contact Us
