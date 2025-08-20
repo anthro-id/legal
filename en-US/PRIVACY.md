@@ -64,6 +64,21 @@ To protect our platform from automated abuse and ensure secure user interactions
 
 For more information about the payments gateway, see **Payment Processing** section down below.
 
+# With Whom We May Share Your Information?
+We may share your information to our other parties to provide you with our contents and maintaining our Platform and services. We also may only share your personal information when it is necessary.
+
+We may share your information to:
+- **Merchants.**
+  - We may share your personal information to our merchants available in this platform such as event organizers, etc.
+
+- **Subprocessors.**
+  - We may share your personal information to our subprocessors to deliver an experience to you. This include payments, authentications, and more.
+  - You can see our subprocessors [right here](https://github.com/anthro-id/legal/blob/main/en-US/TRUST-FOOTPRINT/READ-ONLY/INFRASTRUCTURE.md).
+
+- **Law Enforcement and Authorities.**
+  - We may disclose your personal information to law enforcement officers, government agencies, regulators, courts, or other authorized parties, provided that such disclosure is lawful and has a valid legal basis.
+  - We will only disclose your personal information to such authorities if we are legally required to do so or where we reasonably believe that such disclosure is necessary to investigate or prevent unlawful or suspicious activity.
+
 # Purposes
 We may disclose your personal data in the good faith belief that such action is necessary stated below.
 
