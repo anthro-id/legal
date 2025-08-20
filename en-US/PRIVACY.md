@@ -54,7 +54,7 @@ We do not collect anything more than stated above.
 In some cases, we may share limited information with third parties where it is necessary to provide our services or operate the Platform
 
 ### Merchants
-We may share certain data — such from your legal name up to partial of your transaction record — with our verified event organizers to help ensure a smoother and more secure check-in experience.
+We may share only the minimum amount of information necessary with merchants available on this Platform, such as your alias and information related to your most recent transaction with the relevant merchant.
 
 ### Analytics
 We may share your technical data to [Cloudflare Web Analytics](https://cloudflare.com/) to help us understand and improve our platform in terms of security.
