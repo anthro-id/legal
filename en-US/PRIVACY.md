@@ -103,10 +103,6 @@ By using our payment-enabled services, you agree to the terms and privacy polici
 If you have questions regarding how your payment data is handled, please refer to [Midtrans Privacy Policy](https://midtrans.com/privacy-notice) and [PayPal Privacy Policy](http://paypal.com/privacy) for more information how they process personal information related to payments.
 
 
-# Your Data With Laws
-For legal disclosures, we may share information to comply with a court order or subpoena when investigating potential crimes. Additionally, we may provide information to government agencies as required by law.
-
-
 # Data Retention
 We retain personal information for as long as it is needed. It means that we retain your personal data for as long as you have an active **Anthro.id** account.
 
