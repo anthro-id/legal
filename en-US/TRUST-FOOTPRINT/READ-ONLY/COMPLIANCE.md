@@ -15,6 +15,13 @@ We are compliant with the regulatory requirements set by Ditjen AHU and are list
 
 Reg. Number: `AHU-036220.AH.01.30.2025`.
 
+## PSE Komdigi [Domestic Private Scope/Lingkup Privat Domestik]
+TD PSE (short for "Tanda Daftar Penyelenggara Sistem Elektronik") is a program aimed at regulating the presence of electronic systems organizers in Indonesia.
+
+We are compliant with the regulatory requirements set by Komdigi and are listed in the official PSE registry since August 2025.
+
+PSE Reg. Number: `019551.01/DJAI.PSE/08/2025`
+
 ## PCI DSS
 We stated clearly in our [privacy policy](/legal/privacy) that we do not store personal credit card information for any of our users.
 
