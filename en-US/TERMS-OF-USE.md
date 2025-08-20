@@ -120,10 +120,10 @@ Users outside Indonesia are responsible for ensuring their use of the Platform c
 For more information about parental controls, please refer to our [Underage Individuals'](/legal/underage) policy segment.
 
 ## 7. Terminations
-## Your Right
+### Your Right
 You are free to stop using anthro.id at anytime and for any reason. This can be done by visiting your user profile and discontinue use of the services.
 
-## Our Right
+### Our Right
 We are committed to create a safe and protected space inside the Platform.
 
 We also reserve the rights to restrict, suspend, and/or terminate your account and/or access to some of our services or even whole as a Platform, with or without any notice, at our discretion for any reason.
