@@ -50,7 +50,7 @@ We explicitly state that we only collect this data when you have given us consen
 
 We do not collect anything more than stated above.
 
-# What Information We May Forward to Third Parties?
+# What Information We May Share with Third Parties?
 In some cases, we may forward certain data to our third parties when necessary.
 
 ### Anthro.id / Events
