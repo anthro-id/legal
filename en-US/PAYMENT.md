@@ -100,8 +100,6 @@ Your payout will be paused if there are one or more complaints.
 Both payment gateways take longer—usually to 3 up to 5 business days, though this may vary due to weekends, national holidays, or bank processing schedules.
 
 You can read more information about their timing here:
-- [Midtrans Fund Withdrawal](https://midtrans.com/contact-us/fund-withdrawal-1/cara-melakukan-pencairan-dana)
-- [Midtrans: Manual Payout (Developer-side)](https://docs.midtrans.com/docs/how-can-i-have-my-money-in-my-account-payout#manual-payout)
 - [PayPal: Where's my withdrawal?](https://www.paypal.com/us/cshelp/article/where%E2%80%99s-my-withdrawal-help456)
 
 # Fraud Prevention
