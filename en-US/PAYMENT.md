@@ -2,7 +2,10 @@
 This page explains how we handle payments, how we calculate the pricing, and more.
 
 # Vendors
-We currently have [Midtrans](https://midtrans.com) as our primary payment vendor, and [PayPal (PayPal Holdings, Inc.)](https://paypal.com) as our alternative.
+# Use of Payments for Indonesia Residence
+PayPal is not allowed for Indonesia resident as it may violate [Article 21 and 33 of Law Number 7 of 2011 on Currency (Pasal 21 dan 33 terkait Undang-Undang Nomor 7 tahun 2011 tentang Mata Uang)](https://peraturan.bpk.go.id/Details/39182).
+
+**We highly recommend** that you continue using domestic-preferred payment vendor.
 
 # Fees
 We are committed to being fully transparent about these costs.
@@ -17,8 +20,6 @@ Also, regarding the payment of fees, we offer two options: you may either pass t
 We have a fixed percentage of fee for our services, applies to every transactions, which is:
 - Local payments occurs **4%** of a platform fee.
 - International/cross-border payments occurs **6%** of a platform fee.
-
-If you are an Indonesian resident, **we strongly recommend** that you continue using local payment methods, as otherwise it may violate [Article 21 and 33 of Law Number 7 of 2011 on Currency (Pasal 21 dan 33 terkait Undang-Undang Nomor 7 tahun 2011 tentang Mata Uang)](https://peraturan.bpk.go.id/Details/39182).
 
 Our platform fees are automatically deducted at the time of payment processing. This means the amount shown in your balance is already your net payout amount—no additional platform fees will be deducted during withdrawal. You will only need to factor in payment gateway fees for your final calculation.
 
