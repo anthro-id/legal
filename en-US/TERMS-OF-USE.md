@@ -137,7 +137,7 @@ This Platform operates in full compliance with Indonesian Anti-Money Laundering 
 
 - [Law No. 8 of 2010 on Prevention and Eradication of Money Laundering](https://peraturan.bpk.go.id/Details/38547),
 - [Law No. 9 of 2013 on Prevention And Eradication Of Criminal Act Of Terrorism Financing](https://peraturan.bpk.go.id/Details/38846),
-- Regulations issued by Bank Indonesia and the Financial Services Authority ("OJK"),
+- using payment vendors where regulations were issued by Bank Indonesia and/or the Financial Services Authority ("OJK"),
 - PPATK (Financial Transaction Reports and Analysis Centre) guidelines.
 
 We clearly stated that we NEVER committed any acts that/to:
