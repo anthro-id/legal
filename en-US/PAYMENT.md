@@ -117,3 +117,7 @@ Any page that contains payment features are automatically protected by [Google r
 
 ## Request Check
 During purchase, we also collect your IP address to check if the request is legitimate.
+
+## False Positive
+If one of your transaction was flagged, please [contact our support](/contact).
+
