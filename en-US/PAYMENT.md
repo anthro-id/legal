@@ -35,7 +35,9 @@ If you choose to pay a transaction using PayPal, please check [PayPal Consumer F
 Updated since August 21st, 2025.
 
 ## Out of Scopes
-We do not charge you fees other than mentioned above. Such as refund, withdrawal, etc.
+We do not charge fees other than those mentioned above for services such as refunds, withdrawals, etc.
+
+For merchants, your final amount may be reduced by fees charged by our payment vendors.
 
 ## Conditions
 We given our verified users full control over how they choose to handle these fees. And, some of users can choose to pass these fees to their customers.
