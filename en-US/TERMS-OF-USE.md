@@ -132,7 +132,23 @@ We also believe that we reserve the rights to do this under one or many followin
 - If things does not align with our Terms, such as Standards of Conducts, or additional terms that apply to specific services.
 - If we are required to do so to comply with a court order.
 
-## 8. DISCLAIMER OF WARRANTIES
+## 8. Anti-Money Laundering and Prevention of Terrorism Financing Statement
+This Platform operates in full compliance with Indonesian Anti-Money Laundering and Prevention of Terrorism Financing ("APU PPT") regulations, including but not limited to:
+
+- [Law No. 8 of 2010 on Prevention and Eradication of Money Laundering](https://peraturan.bpk.go.id/Details/38547),
+- [Law No. 9 of 2013 on Prevention And Eradication Of Criminal Act Of Terrorism Financing](https://peraturan.bpk.go.id/Details/38846),
+- Regulations issued by Bank Indonesia and the Financial Services Authority ("OJK"),
+- PPATK (Financial Transaction Reports and Analysis Centre) guidelines.
+
+We clearly stated that we NEVER committed any acts that/to:
+- intentionally provide, collect and provide, funds, either directly or indirectly, with the intention of being used in whole or in part to commit the criminal act of Terrorism, terrorist organizations, or terrorists.
+- could be classified as malicious solicitation, attempted, or aiding and abetting the commission of a crime of financing terrorism.
+- could be categorized as intentionally planning, organizing, or inciting another person to commit the crime of malicious solicitation, attempted, or aiding in the commission of the criminal offense of financing terrorism. 
+- conceal or disguise the origin, source, location, assignment, transfer of rights, or actual ownership of the Property that it knows or deserves to be the result of a money laundering offense.
+
+If found, we reserve the right to report suspicious transactions to [PPATK](https://www.ppatk.go.id) and relevant authorities as required by applicable regulations.
+
+## 9. DISCLAIMER OF WARRANTIES
 We strive to provide a seamless experience for users and visitors, but we cannot guarantee that every aspect of the Platform will function without interuptions.
 
 THE PLATFORM, INCLUDING ALL FEATURES, SERVICES, AND CONTENT, IS PROVIDED ON AN 'AS-IS' AND 'AS-AVAILABLE' BASIS, WITHOUT ANY WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED.
@@ -140,15 +156,15 @@ YOUR USE OF THE SERVICES IS AT YOUR SOLE RISK. WHILE WE STRIVE TO PROVIDE A SEAM
 WE ARE NOT RESPONSIBLE FOR ANY ACTIONS, ERRORS OF THIRD PARTIES, INCLUDING EVENT ORGANIZERS, PAYMENT PROCESSORS, OR ANY EXTERNAL SERVICE PROVIDERS THAT INTERACT WITH OUR PLATFORM. ANY TRANSACTIONS OR INTERACTIONS YOU HAVE WITH EVENT ORGANIZERS OR OTHER USERS ARE AT YOUR OWN RISK.
 TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, INCLUDING, BUT NOT LIMITED TO, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
 
-## 9. LIMITATION OF LIABILITY
+## 10. LIMITATION OF LIABILITY
 TO THE FULLEST EXTENT PERMITTED BY LAW, ANTHRO.ID, ITS AFFILIATES, PARTNERS, EVENT ORGANIZERS, AND SERVICE PROVIDERS SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF PROFITS, DATA, OR BUSINESS OPPORTUNITIES, ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF THE PLATFORM, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
 OUR TOTAL LIABILITY TO YOU FOR ANY CLAIM ARISING FROM OR RELATING TO YOUR USE OF THE PLATFORM SHALL NOT EXCEED [A] THE TOTAL AMOUNT YOU HAVE PAID TO US (IF ANY) IN THE PAST THREE (3) MONTHS BEFORE YOU FIRST ASSERT A CLAIM, OR [B] $100 OR IDR 1,600,000 [AS IN MARCH 2025] (OR THE EQUIVALENT IN YOUR LOCAL CURRENCY)
 
 IN JURISDICTIONS WHERE LIMITATION OF LIABILITY IS RESTRICTED, OUR LIABILITY SHALL BE LIMITED TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
 
-## 10. Questions
+## 11. Questions
 If you have questions about our Terms, please contact us either through our [contact page](/contact) or email us at [mail@anthro.id](mailto:mail@anthro.id).
 
-## 11. Finale
+## 12. Finale
 By using our Platform, you agree to our terms and conditions/services/use.
