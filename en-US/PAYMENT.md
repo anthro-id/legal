@@ -28,7 +28,7 @@ Our platform fees are automatically deducted at the time of payment processing. 
 Updated since June 1st, 2025.
 
 ## Payment Fees (Situational)
-Payment fees depend on our what payment method and vendor do you use at the time of creating a purchase.
+Payment fees depend on what payment method and vendor do you use at the time of creating a purchase.
 
 Starts from August 21st, 2025, we do not charge additional payment processing fees to our users anymore, though merchants may adjust their pricing as needed.
 
