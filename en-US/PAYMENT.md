@@ -76,7 +76,7 @@ For example:
   - International users are charged PayPal's standard fees, and currency conversion fees may apply.
 
 You can read more information about our payment providers pricing here:
-- [Midtrans: Pricing](https://midtrans.com/pricing)
+- [Flip for Business: Pricing](https://flip.id/business/pricing)
 - [PayPal: Send Money Online](https://www.paypal.com/us/digital-wallet/send-receive-money/send-money#accordion-content4)
 - [PayPal: Consumer Fees](https://www.paypal.com/us/digital-wallet/paypal-consumer-fees)
 

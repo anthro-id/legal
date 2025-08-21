@@ -9,7 +9,7 @@
 
 ## Billing & payments
 - [**PayPal**](https://paypal.com) - (United States)
-- [**Midtrans**](https://midtrans.com) - (Indonesia)
+- [**Flip**](https://flip.id) - (Indonesia)
 
 ## Monitoring
 - [**Betterstack (Uptime and Telemetry)**](https://betterstack.com) - (United States)
