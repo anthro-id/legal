@@ -73,7 +73,7 @@ For example:
   - Gopay: IDR 2,500.
   - Bank Transfer: IDR 5,000.
 - When withdrawing international funds to your PayPal account:
-  - Indonesian residents pay no additional fees.
+  - Indonesian residents pay no additional fees since we are Indonesia-based platform.
   - International users are charged PayPal's standard fees, and currency conversion fees may apply.
 
 You can read more information about our payment providers pricing here:
