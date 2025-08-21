@@ -26,14 +26,13 @@ Our platform fees are automatically deducted at the time of payment processing. 
 Updated since June 1st, 2025.
 
 ## Payment Fees (Situational)
-Payment fees depend on our payment vendors.
+Payment fees depend on our what payment method and vendor do you use at the time of creating a purchase.
 
-- For local payment vendors, please visit [Midtrans pricing page](https://midtrans.com/pricing) for more details.
-- For international payment vendors (mainly [PayPal](https://paypal.com)), we do not charge additional payment processing fees, though merchants may adjust their pricing as needed.
-  - Updated since July 30th, 2025.
+Starts from August 21st, 2025, we do not charge additional payment processing fees to our users anymore, though merchants may adjust their pricing as needed.
 
-### Google Pay
-If available, [Google Pay](https://support.google.com/googleplay/answer/6224192?hl=en) relies on bank or card provider fees, so it's best to consult them if you have any concerns.
+If you choose to pay a transaction using PayPal, please check [PayPal Consumer Fees](https://www.paypal.com/us/digital-wallet/paypal-consumer-fees).
+  
+Updated since August 21st, 2025.
 
 ## Out of Scopes
 We do not charge you fees other than mentioned above. Such as refund, withdrawal, etc.
