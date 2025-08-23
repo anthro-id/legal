@@ -10,6 +10,12 @@
         "path": ["privacy", "privacy-policy"]
       },
       {
+        "name": "Cookies Policy",
+        "lastUpdated": "23 August 2025",
+        "filePath": "COOKIES",
+        "path": ["cookie", "cookies", "cookie-policy", "cookies-policy"]
+      },
+      {
         "name": "Terms of Use",
         "lastUpdated": "22 August 2025",
         "filePath": "TERMS-OF-USE",
