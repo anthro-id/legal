@@ -25,5 +25,6 @@ Otherwise, as a fallback, our default policy states that for those who are:
 - **under 13 years old**, the individual's parents and/or legal guardian must provide their valid government-issued ID card.
 - **between 13 and 16 years old**, the individual must provide their additional forms of ID, government-issued or not.
   - This includes, but not limited to a passport, student card, a copy of family certificate, and/or [KIA (Kartu Identitas Anak/Youth Identification Card)](https://hellosehat.com/parenting/anak-6-sampai-9-tahun/tumbuh-kembang-anak/kartu-identitas-anak/).
+- **17 years old and above**, the individual must provide their valid government-issued ID card (KTP, driving license, passport).
 
 During check-in, the individual must bring their physical identification card/form/paper along with the physical copy of the **Underage Attendance Authorization** as stated above.
