@@ -32,12 +32,6 @@
         "lastUpdated": "20 August 2025",
         "filePath": "UNDERAGE",
         "path": ["underage", "underage-policy"]
-      },
-      {
-        "name": "Payment Processing Policy",
-        "lastUpdated": "21 August 2025",
-        "filePath": "PAYMENT",
-        "path": ["payment", "payment-processing", "payment-policy"]
       }
     ]
   },
