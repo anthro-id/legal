@@ -50,13 +50,8 @@ We explicitly state that we only collect this data when you have given us consen
 
 We do not collect anything more than stated above.
 
-<<<<<<< HEAD
-# What Information We May Share to Third Parties?
-In some cases, we may share limited information with third parties where it is necessary to provide our services or operate the Platform
-=======
 # What Information We May Share with Third Parties?
 In certain circumstances, we may share limited information with third parties where it is necessary to provide our services or operate the Platform.
->>>>>>> main
 
 ### Merchants
 We may share only the minimum amount of information necessary with merchants available on this Platform, such as your alias and information related to your most recent transaction with the relevant merchant.
