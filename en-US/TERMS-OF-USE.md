@@ -136,7 +136,7 @@ We also believe that we reserve the rights to do this under one or many followin
 This Platform operates in full compliance with Indonesian Anti-Money Laundering and Prevention of Terrorism Financing ("APU PPT") regulations, including but not limited to:
 
 - [Law No. 8 of 2010 on Prevention and Eradication of Money Laundering](https://peraturan.bpk.go.id/Details/38547),
-- [Law No. 9 of 2013 on Prevention And Eradication Of Criminal Act Of Terrorism Financing](https://peraturan.bpk.go.id/Details/38846),
+- [Law No. 9 of 2013 on Prevention and Eradication Of Criminal Act Of Terrorism Financing](https://peraturan.bpk.go.id/Details/38846),
 - using payment vendors where regulations were issued by Bank Indonesia and/or the Financial Services Authority ("OJK"),
 - PPATK (Financial Transaction Reports and Analysis Centre) guidelines.
 
