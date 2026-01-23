@@ -65,7 +65,9 @@ We may share only the minimum amount of information necessary with merchants ava
 We may share your technical data to [Cloudflare Web Analytics](https://cloudflare.com/) to help us understand and improve our platform in terms of security.
 
 ### Payments
-To protect our platform from automated abuse and ensure secure user interactions, we will forward your certain data from technical to personal information to [Google reCAPTCHA Enterprise](https://cloud.google.com/recaptcha/) and our payments processing gateway.
+To protect our platform from automated abuse and ensure secure user interactions, we share certain data with third-party services:
+- Technical data (as mentioned above) with [Google reCAPTCHA Enterprise](https://cloud.google.com/recaptcha/) for bot detection and security.
+- Identification information (as mentioned above) such as legal/alias name and billing address with our payment processing gateway.
 
 For more information about the payments gateway, see **Payment Processing** section down below.
 
