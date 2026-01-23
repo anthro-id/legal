@@ -124,16 +124,7 @@ If you have questions regarding how your payment data is handled, please refer t
 
 
 # Data Retention
-We retain personal information for as long as it is needed. It means that we retain your personal data for as long as you have an active **Anthro.id** account.
-
-Some information you can delete directly from our Platform.
-
-Some of our services, features, or products may require additional verification that involves collecting sensitive information, such as a government-issued ID. For each type of information, we determine the data retention period based on the reasons outlined below:
-- **Attendees verification**:
-  - Event organizers may choose to enable this feature to prevent ticket touting and similar types of fraud.
-  - If you submit a government-issued ID for purchasing a ticket, your data will be verified in real-time and deleted immediately after the purchase is completed.
-- **Bank information details**:
-  - If you are an event organizer, your bank details will be retained as long as you use our services that require them for fund withdrawals.
+User data is retained for as long as necessary in respect of the purposes for which it was collected and according to the applicable laws. In addition, by law, we are obliged to keep some data for indefinite periods of time. However, in the event you would like your data to be completely removed from the platform, you can send a request to delete your data at any time through our standardized process and procedure.
 
 
 # Your Rights
