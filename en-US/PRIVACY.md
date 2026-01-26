@@ -67,19 +67,26 @@ To protect our platform from automated abuse and ensure secure user interactions
 For more information about the payments gateway, see **Payment Processing** section down below.
 
 # With Whom We May Share Your Information?
-We may share your information to our other parties to provide you with our contents and maintaining our Platform and services. We also may only share your personal information when it is necessary.
+We may share your information with third parties only when necessary to provide our services or as required by law.
 
-We may share your information to:
-- **Merchants.**
-  - We may share your personal information to our merchants available in this platform such as event organizers, etc.
+## Merchants
+When you purchase tickets or register for events, we share necessary information (such as your name, email, and ticket details) with the relevant event organizers to fulfill your order and provide event access.
 
-- **Subprocessors.**
-  - We may share your personal information to our subprocessors to deliver an experience to you. This include payments, authentications, and more.
-  - You can see our subprocessors [right here](https://github.com/anthro-id/legal/blob/main/en-US/TRUST-FOOTPRINT/READ-ONLY/INFRASTRUCTURE.md).
+## Service Providers (or, Subprocessors)
+We work with trusted third-party service providers to help us operate our platform. We only share the minimum information necessary for each provider to perform their specific function.
 
-- **Law Enforcement and Authorities.**
-  - We may disclose your personal information to law enforcement officers, government agencies, regulators, courts, or other authorized parties, provided that such disclosure is lawful and has a valid legal basis.
-  - We will only disclose your personal information to such authorities if we are legally required to do so or where we reasonably believe that such disclosure is necessary to investigate or prevent unlawful or suspicious activity.
+For example, if you are creating a payment, we'll use your full name, email address, and billing address (if available) to process the charge.
+
+You can view our complete list of subprocessors [here](https://github.com/anthro-id/legal/blob/main/en-US/TRUST-FOOTPRINT/READ-ONLY/INFRASTRUCTURE.md).
+
+## Law Enforcement & Legal Authorities
+We may disclose your information to law enforcement, government agencies, regulators, or courts only when:
+- legally required (e.g., court orders, subpoenas, valid government requests),
+- reasonably necessary to investigate, prevent, or address illegal activity,
+- required to protect the rights, property, or safety of our users or the public,
+- and/or, required for AML/CTK compliance and suspicious transaction reporting
+
+In all cases, we share only the minimum information necessary and notify affected users when legally permitted.
 
 # Purposes
 We may disclose your personal data in the good faith belief that such action is necessary stated below.
