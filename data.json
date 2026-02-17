@@ -5,13 +5,19 @@
     "list": [
       {
         "name": "Privacy Policy",
-        "lastUpdated": "23 July 2025",
+        "lastUpdated": "23 January 2026",
         "filePath": "PRIVACY",
         "path": ["privacy", "privacy-policy"]
       },
       {
+        "name": "Cookies Policy",
+        "lastUpdated": "23 August 2025",
+        "filePath": "COOKIES",
+        "path": ["cookie", "cookies", "cookie-policy", "cookies-policy"]
+      },
+      {
         "name": "Terms of Use",
-        "lastUpdated": "23 July 2025",
+        "lastUpdated": "26 January 2026",
         "filePath": "TERMS-OF-USE",
         "path": ["terms", "tos", "terms-of-use"]
       },
@@ -23,9 +29,15 @@
       },
       {
         "name": "Underage Individuals Policy",
-        "lastUpdated": "23 July 2025",
+        "lastUpdated": "6 September 2025",
         "filePath": "UNDERAGE",
         "path": ["underage", "underage-policy"]
+      },
+      {
+        "name": "Money Laundering",
+        "lastUpdated": "26 January 2026",
+        "filePath": "MONEY-LAUNDERING-TERRORISM",
+        "path": ["money-laundering"]
       }
     ]
   },
@@ -35,7 +47,7 @@
     "list": [
       {
         "name": "Refund Policy (Extended)",
-        "lastUpdated": "23 July 2025",
+        "lastUpdated": "23 January 2026",
         "filePath": "EVENTS/REFUND",
         "path": ["refund", "refund-policy"]
       },

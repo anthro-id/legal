@@ -9,6 +9,8 @@ We strongly encourage all parents and guardians to monitor their children's Inte
 # Processing the Data
 In rare cases where we collect personal information from children, we always seek parental or guardian consent and only collect such information for the specific purposes disclosed at the time of collection.
 
+If we know that we have collected Personal Data from an underage individual without valid consent, we will take steps to delete such Personal Data as soon as possible.
+
 # Parental Controls
 We cannot prohibit underage individuals from visiting our Platform and must rely on parents and/or guardians to decide what materials are appropriate for children to view.
 

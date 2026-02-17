@@ -2,7 +2,12 @@
 This page explains how we handle payments, how we calculate the pricing, and more.
 
 # Vendors
-We currently have [Midtrans](https://midtrans.com) as our primary payment vendor, and [PayPal (PayPal Holdings, Inc.)](https://paypal.com) as our alternative.
+We currently have [Flip](https://flip.id) as our primary payment vendor, and [PayPal (PayPal Holdings, Inc.)](https://paypal.com) as our alternative.
+
+# Use of Payments for Indonesia Residence
+PayPal is not allowed for Indonesia resident as it may violate [Article 21 and 33 of Law Number 7 of 2011 on Currency (Pasal 21 dan 33 terkait Undang-Undang Nomor 7 tahun 2011 tentang Mata Uang)](https://peraturan.bpk.go.id/Details/39182).
+
+**We highly recommend** that you continue using domestic-preferred payment vendor.
 
 # Fees
 We are committed to being fully transparent about these costs.
@@ -18,32 +23,29 @@ We have a fixed percentage of fee for our services, applies to every transaction
 - Local payments occurs **4%** of a platform fee.
 - International/cross-border payments occurs **6%** of a platform fee.
 
-If you are an Indonesian resident, **we strongly recommend** that you continue using local payment methods, as otherwise it may violate [Article 21 and 33 of Law Number 7 of 2011 on Currency (Pasal 21 dan 33 terkait Undang-Undang Nomor 7 tahun 2011 tentang Mata Uang)](https://peraturan.bpk.go.id/Details/39182).
-
 Our platform fees are automatically deducted at the time of payment processing. This means the amount shown in your balance is already your net payout amount—no additional platform fees will be deducted during withdrawal. You will only need to factor in payment gateway fees for your final calculation.
 
 Updated since June 1st, 2025.
 
 ## Payment Fees (Situational)
-Payment fees depend on our payment vendors.
+Payment fees depend on what payment method and vendor do you use at the time of creating a purchase.
 
-- For local payment vendors, please visit [Midtrans pricing page](https://midtrans.com/pricing) for more details.
-- For international payment vendors (mainly [PayPal](https://paypal.com)), we do not charge additional payment processing fees, though merchants may adjust their pricing as needed.
-  - Updated since July 30th, 2025.
+Starts from August 21st, 2025, we do not charge additional payment processing fees to our users anymore, though merchants may adjust their pricing as needed.
 
-### Google Pay
-If available, [Google Pay](https://support.google.com/googleplay/answer/6224192?hl=en) relies on bank or card provider fees, so it's best to consult them if you have any concerns.
+If you choose to pay a transaction using PayPal, please check [PayPal Consumer Fees](https://www.paypal.com/us/digital-wallet/paypal-consumer-fees).
+  
+Updated since August 21st, 2025.
 
 ## Out of Scopes
-We do not charge you fees other than mentioned above. Such as refund, withdrawal, etc.
+We do not charge fees other than those mentioned above for services such as refunds, withdrawals, etc.
+
+For merchants, your final amount may be reduced by fees charged by our payment vendors.
 
 ## Conditions
 We given our verified users full control over how they choose to handle these fees. And, some of users can choose to pass these fees to their customers.
 
 # Foreign Exchange Rate
 To ensure fairness, we use [Wise (formerly TransferWise)](https://wise.com) as our foreign exchange rate provider. The rates are updated every hour.
-
-**Anthro.id** is not affiliated, endorsed, or sponsored by Wise.
 
 # Internationalized Price (formerly Dollarized Price)
 We given our users full control over how they going to price the item for users/residents outside Indonesia.
@@ -71,11 +73,11 @@ For example:
   - Gopay: IDR 2,500.
   - Bank Transfer: IDR 5,000.
 - When withdrawing international funds to your PayPal account:
-  - Indonesian residents pay no additional fees.
+  - Indonesian residents pay no additional fees since we are Indonesia-based platform.
   - International users are charged PayPal's standard fees, and currency conversion fees may apply.
 
 You can read more information about our payment providers pricing here:
-- [Midtrans: Pricing](https://midtrans.com/pricing)
+- [Flip for Business: Pricing](https://flip.id/business/pricing)
 - [PayPal: Send Money Online](https://www.paypal.com/us/digital-wallet/send-receive-money/send-money#accordion-content4)
 - [PayPal: Consumer Fees](https://www.paypal.com/us/digital-wallet/paypal-consumer-fees)
 
@@ -98,8 +100,6 @@ Your payout will be paused if there are one or more complaints.
 Both payment gateways take longer—usually to 3 up to 5 business days, though this may vary due to weekends, national holidays, or bank processing schedules.
 
 You can read more information about their timing here:
-- [Midtrans Fund Withdrawal](https://midtrans.com/contact-us/fund-withdrawal-1/cara-melakukan-pencairan-dana)
-- [Midtrans: Manual Payout (Developer-side)](https://docs.midtrans.com/docs/how-can-i-have-my-money-in-my-account-payout#manual-payout)
 - [PayPal: Where's my withdrawal?](https://www.paypal.com/us/cshelp/article/where%E2%80%99s-my-withdrawal-help456)
 
 # Fraud Prevention
@@ -117,3 +117,9 @@ Any page that contains payment features are automatically protected by [Google r
 
 ## Request Check
 During purchase, we also collect your IP address to check if the request is legitimate.
+
+## False Positive
+If one of your transaction was flagged, please [contact our support](/contact).
+
+# Verdict
+**Anthro.id** is not endorsed and/or sponsored by any products or services mentioned above.

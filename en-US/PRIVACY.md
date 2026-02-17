@@ -53,16 +53,40 @@ We do not collect anything more than stated above.
 # What Information We May Share with Third Parties?
 In certain circumstances, we may share limited information with third parties where it is necessary to provide our services or operate the Platform.
 
-### Anthro.id / Events
-We may share certain data — such from your legal name up to partial of your transaction record — with our verified event organizers to help ensure a smoother and more secure check-in experience.
+### Merchants
+We may share only the minimum amount of information necessary with merchants available on this Platform, such as your alias and information related to your most recent transaction with the relevant merchant.
 
 ### Analytics
 We may share your technical data to [Cloudflare Web Analytics](https://cloudflare.com/) to help us understand and improve our platform in terms of security.
 
 ### Payments
-To protect our platform from automated abuse and ensure secure user interactions, we will forward your certain data from technical to personal information to [Google reCAPTCHA Enterprise](https://cloud.google.com/recaptcha/) and our payments processing gateway.
+To protect our platform from automated abuse and ensure secure user interactions, we share certain data with third-party services:
+- Technical data (as mentioned above) with [Google reCAPTCHA Enterprise](https://cloud.google.com/recaptcha/) for bot detection and security.
+- Identification information (as mentioned above) such as legal/alias name and billing address with our payment processing gateway.
 
 For more information about the payments gateway, see **Payment Processing** section down below.
+
+# With Whom We May Share Your Information?
+We may share your information with third parties only when necessary to provide our services or as required by law.
+
+## Merchants
+When you purchase tickets or register for events, we share necessary information (such as your name, email, and ticket details) with the relevant event organizers to fulfill your order and provide event access.
+
+## Service Providers (or, Subprocessors)
+We work with trusted third-party service providers to help us operate our platform. We only share the minimum information necessary for each provider to perform their specific function.
+
+For example, if you are creating a payment, we'll use your full name, email address, and billing address (if available) to process the charge.
+
+You can view our complete list of subprocessors [here](https://github.com/anthro-id/legal/blob/main/en-US/TRUST-FOOTPRINT/READ-ONLY/INFRASTRUCTURE.md).
+
+## Law Enforcement & Legal Authorities
+We may disclose your information to law enforcement, government agencies, regulators, or courts only when:
+- legally required (e.g., court orders, subpoenas, valid government requests),
+- reasonably necessary to investigate, prevent, or address illegal activity,
+- required to protect the rights, property, or safety of our users or the public,
+- and/or, required for AML/CTK compliance and suspicious transaction reporting
+
+In all cases, we share only the minimum information necessary and notify affected users when legally permitted.
 
 # Purposes
 We may disclose your personal data in the good faith belief that such action is necessary stated below.
@@ -94,26 +118,17 @@ To protect your data further, we recommend you to:
 # Payment Processing
 Some of our features, products, or services require payment processing. To facilitate transactions, we work with third-party payment processors who handle payments securely on our behalf. When you make a payment through our Platform, your payment information, such as your name, billing address, and payment details, may be collected and processed by these third-party providers.
 
-We use certified payments processing vendors such as [Midtrans (Indonesia)](https://midtrans.com) and [PayPal Holdings, Inc.](https://paypal.com) to enable them to process your payment.
+We use certified payments processing vendors such as [Flip (Indonesia)](https://flip.id) and [PayPal Holdings, Inc.](https://paypal.com) to enable them to process your payment.
 
 We do not store or process your full payment details directly. However, we may receive limited transaction information, such as payment status or confirmation, to ensure the completion of your purchase or refund requests.
 
 By using our payment-enabled services, you agree to the terms and privacy policies of our payment processing vendors.
 
-If you have questions regarding how your payment data is handled, please refer to [Midtrans Privacy Policy](https://midtrans.com/privacy-notice) and [PayPal Privacy Policy](http://paypal.com/privacy) for more information how they process personal information related to payments.
+If you have questions regarding how your payment data is handled, please refer to [Flip.id Privacy Policy](https://flip.id/en/kebijakan-privasi) and [PayPal Privacy Policy](http://paypal.com/privacy) for more information how they process personal information related to payments.
 
 
 # Data Retention
-We retain personal information for as long as it is needed. It means that we retain your personal data for as long as you have an active **Anthro.id** account.
-
-Some information you can delete directly from our Platform.
-
-Some of our services, features, or products may require additional verification that involves collecting sensitive information, such as a government-issued ID. For each type of information, we determine the data retention period based on the reasons outlined below:
-- **Attendees verification**:
-  - Event organizers may choose to enable this feature to prevent ticket touting and similar types of fraud.
-  - If you submit a government-issued ID for purchasing a ticket, your data will be verified in real-time and deleted immediately after the purchase is completed.
-- **Bank information details**:
-  - If you are an event organizer, your bank details will be retained as long as you use our services that require them for fund withdrawals.
+User data is retained for as long as necessary in respect of the purposes for which it was collected and according to the applicable laws. In addition, by law, we are obliged to keep some data for indefinite periods of time. However, in the event you would like your data to be completely removed from the platform, you can send a request to delete your data at any time through our standardized process and procedure.
 
 
 # Your Rights

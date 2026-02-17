@@ -15,12 +15,19 @@ We are compliant with the regulatory requirements set by Ditjen AHU and are list
 
 Reg. Number: `AHU-036220.AH.01.30.2025`.
 
+## PSE Komdigi [Domestic Private Scope/Lingkup Privat Domestik]
+TD PSE (short for "Tanda Daftar Penyelenggara Sistem Elektronik") is a program aimed at regulating the presence of electronic systems organizers in Indonesia.
+
+We are compliant with the regulatory requirements set by Komdigi and are listed in the official PSE registry since August 2025.
+
+PSE Reg. Number: `019551.01/DJAI.PSE/08/2025`
+
 ## PCI DSS
 We stated clearly in our [privacy policy](/legal/consumer/privacy) that we do not store personal credit card information for any of our users.
 
-Most of the payments rely on [Midtrans](https://midtrans.com) and [PayPal](https://paypal.com) to process transactions, which is PCI-DSS compliant.
+Most of the payments rely on [Flip](https://flip.id) and [PayPal](https://paypal.com) to process transactions, which is PCI-DSS compliant.
 
-For more information, please visit [Midtrans Security](https://midtrans.com/security) and [PayPal PCI Compliance](https://www.paypal.com/id/webapps/mpp/pci-compliance?locale.x=en_ID) page.
+For more information, please visit [Flip.id: Bank Indonesia Certified](https://www.bi.go.id/id/qrcode/validate.aspx?tipe=PTD&id=0002.001/0013) and [PayPal PCI Compliance](https://www.paypal.com/id/webapps/mpp/pci-compliance?locale.x=en_ID) page.
 
 ## ISO 27001
 All user data is stored in ISO 27001-certified data centers, following international standards for security and reliability.

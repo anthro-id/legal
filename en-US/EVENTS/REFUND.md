@@ -46,9 +46,9 @@ Refund verification (a state whether your ticket will be refunded, or not) typic
 
 If you request a refund through our [contact page](/contact), our response time may take up to 24 hours or, in rare cases, up to a week or two.
 
-As long as it complies with our policies and is made in good faith, the decision is at the event organizer's discretion.
+As long as it complies with policies between merchants and the Platform, the final decision is and will be still at the event organizer's discretion.
 
-The meaning of good faith reasons are including, but not limited to:
+There are some situations where refund is not acceptable, which is but not limited to:
 - **deadlines**, the request was submitted after the event organizer’s stated refund deadline, such as when a ticket is ordered within 24 hours of the event's start time.
 - **non-refundable ticket(s)**, the event organizer clearly stated that tickets are non-refundable at the time of purchase.
 - **violation**, the event organizer reserves the right to void a ticket if the attendee is found in violation of event policies, such as engaging in disruptive behavior, unauthorized ticket reselling, or other related infractions.
