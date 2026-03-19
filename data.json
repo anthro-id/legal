@@ -42,6 +42,18 @@
     ]
   },
   {
+    "section": "Platform Terms",
+    "index": "platform",
+    "list": [
+      {
+        "name": "Publishing Policy",
+        "lastUpdated": "18 March 2026",
+        "filePath": "PUBLISHING",
+        "path": ["publishing"]
+      }
+    ]
+  },
+  {
     "section": "'Event' Terms",
     "index": "event",
     "list": [
