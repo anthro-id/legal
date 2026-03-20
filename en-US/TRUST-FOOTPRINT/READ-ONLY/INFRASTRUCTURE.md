@@ -10,6 +10,7 @@
 ## Billing & payments
 - [**PayPal**](https://paypal.com) - (United States)
 - [**Flip**](https://flip.id) - (Indonesia)
+- [**DOKU**](https://doku.com) - (Indonesia)
 
 ## Monitoring
 - [**Betterstack (Uptime and Telemetry)**](https://betterstack.com) - (United States)
