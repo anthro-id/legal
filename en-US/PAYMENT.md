@@ -2,7 +2,7 @@
 This page explains how we handle payments, how we calculate the pricing, and more.
 
 # Vendors
-We currently have [Flip](https://flip.id) as our primary payment vendor, and [PayPal (PayPal Pte. Ltd.)](https://paypal.com) as our alternative.
+We currently have [Flip](https://flip.id) as our primary payment vendor, [DOKU (PT Nusa Satu Inti Artha)](https://doku.com) and [PayPal (PayPal Pte. Ltd.)](https://paypal.com) as our alternative.
 
 # Use of Payments for Indonesia Residence
 PayPal is not allowed for Indonesia resident as it may violate [Article 21 and 33 of Law Number 7 of 2011 on Currency (Pasal 21 dan 33 terkait Undang-Undang Nomor 7 tahun 2011 tentang Mata Uang)](https://peraturan.bpk.go.id/Details/39182).
