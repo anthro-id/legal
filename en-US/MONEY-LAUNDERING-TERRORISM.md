@@ -1,4 +1,4 @@
-# Anti-Money Laundering and Prevention of Terrorism Financing Statement
+# Overview
 This Platform operates in full compliance with Indonesian Anti-Money Laundering and Prevention of Terrorism Financing ("APU PPT") regulations, including:
 
 - [Law No. 8 of 2010 on Prevention and Eradication of Money Laundering](https://peraturan.bpk.go.id/Details/38547),
