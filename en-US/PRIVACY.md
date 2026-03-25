@@ -118,7 +118,7 @@ To protect your data further, we recommend you to:
 # Payment Processing
 Some of our features, products, or services require payment processing. To facilitate transactions, we work with third-party payment processors who handle payments securely on our behalf. When you make a payment through our Platform, your payment information, such as your name, billing address, and payment details, may be collected and processed by these third-party providers.
 
-We use certified payments processing vendors such as [Flip (Indonesia)](https://flip.id), [DOKU (Indonesia)](https://doku.com), [PayPal Holdings, Inc.](https://paypal.com) to enable them to process your payment.
+We use certified payments processing vendors such as [Flip (Indonesia)](https://flip.id), [DOKU (Indonesia)](https://doku.com), [PayPal Pte. Ltd.](https://paypal.com) to enable them to process your payment.
 
 We do not store or process your full payment details directly. However, we may receive limited transaction information, such as payment status or confirmation, to ensure the completion of your purchase or refund requests.
 
