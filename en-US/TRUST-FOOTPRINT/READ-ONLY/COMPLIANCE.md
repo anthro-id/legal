@@ -27,7 +27,7 @@ We stated clearly in our [privacy policy](/legal/consumer/privacy) that we do no
 
 Most of the payments rely on [Flip](https://flip.id) and [PayPal](https://paypal.com) to process transactions, which is PCI-DSS compliant.
 
-For more information, please visit [Flip.id: Bank Indonesia Certified](https://www.bi.go.id/id/qrcode/validate.aspx?tipe=PTD&id=0002.001/0013) and [PayPal PCI Compliance](https://www.paypal.com/id/webapps/mpp/pci-compliance?locale.x=en_ID) page.
+For more information, please visit [Flip.id: Bank Indonesia Certified](https://www.bi.go.id/id/qrcode/validate.aspx?tipe=PTD&id=0002.001/0013), [DOKU Licenses](https://docs.doku.com/security/licenses), and [PayPal PCI Compliance](https://www.paypal.com/id/webapps/mpp/pci-compliance?locale.x=en_ID) page.
 
 ## ISO 27001
 All user data is stored in ISO 27001-certified data centers, following international standards for security and reliability.

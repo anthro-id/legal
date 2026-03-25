@@ -11,3 +11,4 @@ For more information about terms and policies, please refer to our [legal page](
 - [Bunny Privacy Policy](https://bunny.net/privacy/?ref=59m0uotfa1) and [Terms of Service](https://bunny.net/tos/?ref=59m0uotfa1).
 - [PayPal Privacy Policy](https://paypal.com/privacy) and [Terms of Service or User Agreement](https://paypal.com/us/legalhub/paypal/useragreement-full).
 - [Flip.id Privacy Policy](https://flip.id/en/kebijakan-privasi) and [Terms and Conditions](https://flip.id/en/syarat-dan-ketentuan).
+- [DOKU Privacy Policy](https://www.doku.com/kebijakan-privasi) and [Terms and Conditions](https://www.doku.com/dw/tnc/termsandconditions.html).
