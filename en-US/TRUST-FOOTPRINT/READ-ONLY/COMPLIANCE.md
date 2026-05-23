@@ -13,14 +13,10 @@ Ditjen AHU (short for "Direktorat Jenderal Administrasi Hukum Umum") is a Direct
 
 We are compliant with the regulatory requirements set by Ditjen AHU and are listed in the official registry since July 2025.
 
-Reg. Number: `AHU-036220.AH.01.30.2025`.
-
 ## PSE Komdigi [Domestic Private Scope/Lingkup Privat Domestik]
 TD PSE (short for "Tanda Daftar Penyelenggara Sistem Elektronik") is a program aimed at regulating the presence of electronic systems organizers in Indonesia.
 
 We are compliant with the regulatory requirements set by Komdigi and are listed in the official PSE registry since August 2025.
-
-PSE Reg. Number: `019551.01/DJAI.PSE/08/2025`
 
 ## PCI DSS
 We stated clearly in our [privacy policy](/legal/consumer/privacy) that we do not store personal credit card information for any of our users.
@@ -44,3 +40,6 @@ For users in the European Union, we follow the principles of the General Data Pr
 - allowing you to access, update, or delete your personal data,
 - providing transparency on how your data is processed,
 - offering clear ways to withdraw consent at any time.
+
+## Registration Numbers
+Business-related registration numbers are available on our webpage called [Compliances](https://anthro.id/legal/compliance).
