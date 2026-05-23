@@ -5,7 +5,6 @@
 - [**Upstash**](https://upstash.com) - (United States)
 - [**Cloudflare**](https://cloudflare.com) - (United States)
 - [**GitHub**](https://github.com) - (United States)
-- [**BunnyCDN**](https://bunny.net/?ref=59m0uotfa1) - (Slovenia)
 
 ## Billing & payments
 - [**PayPal**](https://paypal.com) - (United States)
