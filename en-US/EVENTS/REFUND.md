@@ -54,4 +54,4 @@ There are some situations where refund is not acceptable, which is but not limit
 - **violation**, the event organizer reserves the right to void a ticket if the attendee is found in violation of event policies, such as engaging in disruptive behavior, unauthorized ticket reselling, or other related infractions.
 
 # General
-This is an extended version of our refund policy. For more information, visit [Refund Policy](/en-US/REFUND.md).
+This is an extended version of our refund policy. For more information, visit [Refund Policy](/legal/consumer/refund).
