@@ -25,9 +25,12 @@ If the consumer's refuses to cooperate, we will work with the consumer's bank to
 # Refund Coverage Details
 Refunds, if applicable, will only cover the base item (or content) price paid by the consumer.
 
+Any additional fees, including but not limited to platform fees, payment processing fees, VAT, and currency conversion fees are considered **non-refundable** or **irreversible**.
+
+## Refund Deductions
 For domestic payment methods, a refund processing fee of up to IDR (Rp) 2.500 may be deducted from the refunded amount.
 
-Any additional fees, including but not limited to platform fees, payment processing fees, VAT, and currency conversion fees are considered **non-refundable** or **irreversible**.
+The refund deduction will not apply if the refund is due to an error on our end, such as incorrect charges, system errors, or merchant mistakes.
 
 # Under Account Termination
 If your **Anthro.id** account is terminated for some reasons, you have no rights to issue any refunds until your account is reinstated.
