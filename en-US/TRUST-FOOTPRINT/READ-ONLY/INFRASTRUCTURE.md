@@ -7,7 +7,7 @@
 - [**GitHub**](https://github.com) - (United States)
 
 ## Billing & payments
-- [**PayPal**](https://paypal.com) - (United States)
+- [**PayPal**](https://paypal.com) - (Singapore)
 - [**Flip**](https://flip.id) - (Indonesia)
 - [**DOKU**](https://doku.com) - (Indonesia)
 
