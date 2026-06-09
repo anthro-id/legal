@@ -16,6 +16,6 @@
 
 ## Miscellaneous
 - [**IPinfo**](https://ipinfo.io) - (United States)
-- [**Mapbox**](https://mapbox.com) - (United States)
-- [**Docusign**](https://docusign.com) - (United States)
+- [**IDAS**](https://idas.id) - (Indonesia)
 - [**Wise**](https://wise.com) - (United Kingdom)
+- [**Sectigo**](https://sectigo.com) - (United States/Kingdom (Great Britain))
